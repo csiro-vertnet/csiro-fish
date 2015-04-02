@@ -1,0 +1,73 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 208
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: Russia ; Times: 11
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-13 ; Times: 11
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-19 ; Times: 1
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "minous" ; Times: 9
+	Query: "antimora type:specimen year <= 2000" ; Times: 1
+	Query: "Holtbyrnia laticauda" ; Times: 4
+	Query: "coris aygula" ; Times: 1
+	Query: "pervagor janthinosoma" ; Times: 1
+	Query: "maulisia acuticeps" ; Times: 2
+	Query: "actinopterygii vorax" ; Times: 1
+	Query: "Echinorhinus cookei" ; Times: 1
+	Query: "maulisia microlepis" ; Times: 1
+	Query: "platytroctes apus" ; Times: 2
+	Query: "minous trachycephalus" ; Times: 2
+	Query: "xiphiidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 298 download events in this period)
+Total number of records downloaded: 2 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Norops" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 30
+Total number of records retrieved from searches: 239
+Number of download events that retrieved data from the resource: 3
+Total number of records downloaded: 7
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 34
+Total number of records retrieved from searches: 254
+Number of download events that retrieved data from the resource: 3
+Total number of records downloaded: 7
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

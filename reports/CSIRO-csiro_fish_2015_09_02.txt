@@ -1,0 +1,93 @@
+Report for Institution Code CSIRO, Resource Fish
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 88
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Benin ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: Russia ; Times: 13
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-12 ; Times: 3
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-17 ; Times: 3
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 2
+	Date: 2015-08-21 ; Times: 8
+	Date: 2015-08-22 ; Times: 3
+	Date: 2015-08-24 ; Times: 3
+	Date: 2015-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "4380" ; Times: 2
+	Query: "Ablennes hians" ; Times: 3
+	Query: "isurus oxyrinchus" ; Times: 3
+	Query: "rhinobatos thouin" ; Times: 2
+	Query: "pomadasys kaakan" ; Times: 5
+	Query: "chirocentrus nudus" ; Times: 1
+	Query: "Psychrolutes" ; Times: 1
+	Query: "pristigenys" ; Times: 2
+	Query: "Prionodon" ; Times: 1
+	Query: "encheliophis gracilis" ; Times: 1
+	Query: "7754" ; Times: 1
+	Query: "pristigenys niphonia" ; Times: 1
+	Query: "synodus indicus" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1138 download events in this period)
+Total number of records downloaded: 39 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 37
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-25 ; Times: 1
+	Date: 2015-08-27 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 1
+	Date: 2015-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mykiss" ; Times: 1
+	Query: "country:"Mexico" class:Actinopterygii" ; Times: 1
+	Query: "Psychrolutes" ; Times: 1
+	Query: "distance(location,geopoint(32.379961464357315,-119.94873046875))<100000" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "country:"peru"" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 25
+Total number of records retrieved from searches: 88
+Number of download events that retrieved data from the resource: 8
+Total number of records downloaded: 39
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 25
+Total number of records retrieved from searches: 88
+Number of download events that retrieved data from the resource: 8
+Total number of records downloaded: 39
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

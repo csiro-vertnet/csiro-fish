@@ -1,0 +1,71 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 94
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Japan ; Times: 3
+	Country: Russia ; Times: 10
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-10 ; Times: 1
+	Date: 2015-09-06 ; Times: 2
+	Date: 2015-09-04 ; Times: 3
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-02 ; Times: 6
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-17 ; Times: 2
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hexanchus" ; Times: 1
+	Query: "anoxypristis cuspidata" ; Times: 2
+	Query: "anabas" ; Times: 3
+	Query: "baxteri" ; Times: 1
+	Query: "parapriacanthus ransonneti" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "syngnathoides biaculeatus" ; Times: 3
+	Query: "Leptosomus" ; Times: 1
+	Query: "pristis zijsron" ; Times: 1
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "minous trachycephalus" ; Times: 2
+	Query: "sagittarius" ; Times: 1
+	Query: "septemstriatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1045 download events in this period)
+Total number of records downloaded: 11045
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Australia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-02 ; Times: 5
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(-7.986704103140561,142.18505859375))&lt;100000" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "PNG" ; Times: 2
+	Query: "New Guinea" ; Times: 2
+
+
+End of report.

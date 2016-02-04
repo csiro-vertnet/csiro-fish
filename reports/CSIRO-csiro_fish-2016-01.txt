@@ -1,0 +1,58 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 71
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "minous" ; Times: 3
+	Query: "yangi" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "mobula japanica" ; Times: 1
+	Query: "scolopsis vosmeri" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "velifera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 507 download events in this period)
+Total number of records downloaded: 347
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-03 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mobula japanica" ; Times: 1
+	Query: "family:Paralichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Pleuronectidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "family:Osmeridae country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.

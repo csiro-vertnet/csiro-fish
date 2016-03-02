@@ -1,0 +1,50 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 65
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Czech Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Istiophoridae" ; Times: 1
+	Query: "Synodus sageneus" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "lepidopus" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 1
+	Query: "sieboldii" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 512 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Saltator" ; Times: 1
+
+
+End of report.

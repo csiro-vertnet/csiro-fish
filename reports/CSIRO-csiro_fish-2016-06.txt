@@ -1,0 +1,89 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 326
+Number of records retrieved in searches: 2155
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 315
+	Country: Germany ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 303
+	Date: 2016-06-24 ; Times: 12
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-03 ; Times: 1
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "johnsoni" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 36
+	Query: "specificepithet:alalunga genus:Thunnus" ; Times: 27
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 12
+	Query: "specificepithet:zygaena genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "Lepidoptera" ; Times: 1
+	Query: "lagocephalus suezensis" ; Times: 1
+	Query: "specificepithet:obesus genus:Thunnus" ; Times: 17
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "Rhincodon typus" ; Times: 2
+	Query: "paraplagusia bilineata" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 17
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 1
+	Query: "specificepithet:carponotatus genus:Lutjanus" ; Times: 6
+	Query: "specificepithet:monoceros genus:Aluterus" ; Times: 1
+	Query: "specificepithet:orientalis genus:Sarda" ; Times: 1
+	Query: "specificepithet:latifasciatus genus:Epinephelus" ; Times: 4
+	Query: "specificepithet:muroadsi genus:Decapterus" ; Times: 4
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 22
+	Query: "Gigantactis" ; Times: 1
+	Query: "Xiphias gladius" ; Times: 2
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 15
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 18
+	Query: "specificepithet:mokarran genus:Sphyrna" ; Times: 1
+	Query: "winterbottomi" ; Times: 1
+	Query: "specificepithet:affinis genus:Euthynnus" ; Times: 2
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 91
+	Query: "parapriacanthus elongatus" ; Times: 1
+	Query: "specificepithet:japanica genus:Mobula" ; Times: 2
+	Query: "specificepithet:occiduus" ; Times: 1
+	Query: "specificepithet:rochei genus:Auxis" ; Times: 2
+	Query: "PRISTIS PRISTIS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1052 download events in this period)
+Total number of records downloaded: 55
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "Meleagris" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,85 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 483
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: France ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-18 ; Times: 1
+	Date: 2016-07-13 ; Times: 2
+	Date: 2016-07-29 ; Times: 55
+	Date: 2016-07-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 1
+	Query: "specificepithet:affinis genus:Euthynnus" ; Times: 1
+	Query: "specificepithet:alalunga genus:Thunnus" ; Times: 1
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:rivoliana genus:Seriola" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 1
+	Query: "specificepithet:lepturus genus:Trichiurus" ; Times: 1
+	Query: "specificepithet:salar genus:Salmo" ; Times: 1
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 1
+	Query: "specificepithet:holocanthus genus:Diodon" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 1
+	Query: "specificepithet:rubroviolaceus genus:Scarus" ; Times: 1
+	Query: "specificepithet:vulpinus genus:Alopias" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 8
+	Query: "Rhincodon typus" ; Times: 2
+	Query: "18c93d12-34fb-4d3f-903c-b77215a1dcc9" ; Times: 1
+	Query: "specificepithet:lagocephalus genus:Lagocephalus" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 2
+	Query: "specificepithet:carponotatus genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 1
+	Query: "specificepithet:antennata genus:Pterois" ; Times: 1
+	Query: "specificepithet:monoceros genus:Aluterus" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 1
+	Query: "specificepithet:latifasciatus genus:Epinephelus" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 3
+	Query: "specificepithet:mokarran genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:audax genus:Tetrapturus" ; Times: 1
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 1
+	Query: "specificepithet:galeus genus:Galeorhinus" ; Times: 1
+	Query: "specificepithet:oxyrinchus genus:Isurus" ; Times: 1
+	Query: "specificepithet:sapidissima genus:Alosa" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 1
+	Query: "specificepithet:ciliaris genus:Alectis" ; Times: 1
+	Query: "specificepithet:gladius genus:Xiphias" ; Times: 1
+	Query: "specificepithet:macarellus genus:Decapterus" ; Times: 1
+	Query: "specificepithet:dactylopterus genus:Helicolenus" ; Times: 1
+	Query: "specificepithet:limbatus genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:melampygus genus:Caranx" ; Times: 1
+	Query: "confusus" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 1
+	Query: "specificepithet:rostrata genus:Antimora" ; Times: 1
+	Query: "specificepithet:crumenophthalmus genus:Selar" ; Times: 1
+	Query: "specificepithet:japonicus genus:Scomber" ; Times: 1
+	Query: "specificepithet:symmetricus genus:Trachurus" ; Times: 1
+	Query: "specificepithet:japanica genus:Mobula" ; Times: 1
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "specificepithet:rochei genus:Auxis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1219 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.

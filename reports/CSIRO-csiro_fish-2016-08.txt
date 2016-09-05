@@ -1,0 +1,99 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 115
+Number of records retrieved in searches: 867
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 113
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-19 ; Times: 24
+	Date: 2016-08-13 ; Times: 2
+	Date: 2016-08-21 ; Times: 4
+	Date: 2016-08-20 ; Times: 84
+	Date: 2016-08-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 3
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 13
+	Query: "specificepithet:bipinnulatus genus:Elagatis" ; Times: 1
+	Query: "specificepithet:carponotatus genus:Lutjanus" ; Times: 2
+	Query: "specificepithet:orientalis genus:Sarda" ; Times: 1
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:rivoliana genus:Seriola" ; Times: 1
+	Query: "specificepithet:californicus genus:Paralichthys" ; Times: 1
+	Query: "specificepithet:lepturus genus:Trichiurus" ; Times: 1
+	Query: "specificepithet:equiselis genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:cyprinoides genus:Megalops" ; Times: 2
+	Query: "specificepithet:salar genus:Salmo" ; Times: 1
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 4
+	Query: "specificepithet:fuscus genus:Bathygobius" ; Times: 1
+	Query: "specificepithet:holocanthus genus:Diodon" ; Times: 1
+	Query: "specificepithet:speciosus genus:Gnathanodon" ; Times: 2
+	Query: "specificepithet:bipinnulata genus:Elagatis" ; Times: 1
+	Query: "specificepithet:gladius genus:Xiphias" ; Times: 1
+	Query: "specificepithet:lagocephalus genus:Lagocephalus" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 3
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 2
+	Query: "specificepithet:cookei genus:Echinorhinus" ; Times: 1
+	Query: "specificepithet:forsteri genus:Albula" ; Times: 1
+	Query: "specificepithet:alalunga genus:Thunnus" ; Times: 1
+	Query: "specificepithet:acus genus:Tylosurus" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "specificepithet:latifasciatus genus:Epinephelus" ; Times: 2
+	Query: "specificepithet:lalandi genus:Seriola" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 12
+	Query: "specificepithet:brevipinna genus:Carcharhinus" ; Times: 1
+	Query: "90-128" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 2
+	Query: "specificepithet:falciformis genus:Carcharhinus" ; Times: 2
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 1
+	Query: "specificepithet:galeus genus:Galeorhinus" ; Times: 1
+	Query: "specificepithet:oxyrinchus genus:Isurus" ; Times: 3
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:hystrix genus:Diodon" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 2
+	Query: "specificepithet:cornutus genus:Zanclus" ; Times: 2
+	Query: "specificepithet:carcharias genus:Carcharodon" ; Times: 2
+	Query: "specificepithet:galapagensis genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:chanos genus:Chanos" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 5
+	Query: "specificepithet:longimanus genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:secunda genus:Uraspis" ; Times: 1
+	Query: "specificepithet:japanica genus:Mobula" ; Times: 1
+	Query: "specificepithet:limbatus genus:Carcharhinus" ; Times: 2
+	Query: "catalognumber:&#34;H565-1&#34; institutioncode:CSIRO" ; Times: 1
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 2
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 2
+	Query: "specificepithet:petimba genus:Fistularia" ; Times: 1
+	Query: "specificepithet:sexfasciatus genus:Caranx" ; Times: 1
+	Query: "specificepithet:crumenophthalmus genus:Selar" ; Times: 1
+	Query: "specificepithet:japonicus genus:Scomber" ; Times: 2
+	Query: "specificepithet:hispidus genus:Arothron" ; Times: 1
+	Query: "specificepithet:superciliosus genus:Alopias" ; Times: 1
+	Query: "specificepithet:obesus genus:Thunnus" ; Times: 1
+	Query: "catalognumber:1 institutioncode:CSIRO" ; Times: 1
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "specificepithet:rochei genus:Auxis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 924 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.

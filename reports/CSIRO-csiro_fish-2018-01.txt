@@ -1,0 +1,167 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 151
+Number of records retrieved in searches: 594
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 130
+	Country: United Kingdom ; Times: 5
+	Country: France ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-02 ; Times: 23
+	Date: 2018-01-03 ; Times: 99
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-06 ; Times: 2
+	Date: 2018-01-17 ; Times: 10
+	Date: 2018-01-05 ; Times: 3
+	Date: 2018-01-24 ; Times: 4
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pomacentrus amboinensis mappable:1" ; Times: 1
+	Query: "Pomacentrus moluccensis mappable:1" ; Times: 2
+	Query: "Abudefduf sexfasciatus" ; Times: 2
+	Query: "Pomacentrus taeniometopon" ; Times: 2
+	Query: "Chromis caerulea" ; Times: 1
+	Query: "Stegastes nigricans" ; Times: 2
+	Query: "Hemiglyphidodon plagiometopon" ; Times: 1
+	Query: "Eupomacentrus nigricans" ; Times: 2
+	Query: "Pristotis jerdoni mappable:1" ; Times: 1
+	Query: "Pomacentrus rhodonotus mappable:1" ; Times: 1
+	Query: "hypnos" ; Times: 1
+	Query: "Scatophagus argus" ; Times: 1
+	Query: "Notoscopelus caudispinosus mappable:1" ; Times: 1
+	Query: "Chromis atripectoralis" ; Times: 1
+	Query: "Abudefduf vaigiensis" ; Times: 2
+	Query: "Pomacentrus amboinensis" ; Times: 1
+	Query: "Neopomacentrus anabatoides" ; Times: 1
+	Query: "Parma microlepis mappable:1" ; Times: 1
+	Query: "Amblypomacentrus breviceps" ; Times: 1
+	Query: "Parma occidentalis" ; Times: 1
+	Query: "Pomacentrus rhodonotus" ; Times: 1
+	Query: "Abudefduf coelestinus mappable:1" ; Times: 2
+	Query: "Amphiprion rubrocinctus mappable:1" ; Times: 1
+	Query: "Chromis abyssicola" ; Times: 1
+	Query: "Pristotis obtusirostris" ; Times: 1
+	Query: "Abudefduf septemfasciatus" ; Times: 3
+	Query: "Dascyllus marginatus" ; Times: 2
+	Query: "Bathylagichthys greyae mappable:1" ; Times: 2
+	Query: "Plectroglyphidodon leucozona" ; Times: 1
+	Query: "Parma occidentalis mappable:1" ; Times: 1
+	Query: "Chromis caerulea mappable:1" ; Times: 1
+	Query: "Dischistodus perspicillatus mappable:1" ; Times: 1
+	Query: "Dischistodus chrysopoecilus" ; Times: 1
+	Query: "Parma mccullochi" ; Times: 1
+	Query: "Eupomacentrus nigricans mappable:1" ; Times: 2
+	Query: "Aulostomus chinensis" ; Times: 1
+	Query: "scortum barcoo" ; Times: 1
+	Query: "Pomacentrus milleri" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 2
+	Query: "Neopomacentrus anabatoides mappable:1" ; Times: 1
+	Query: "Chromis hypsilepis" ; Times: 1
+	Query: "Pomacentrus milleri mappable:1" ; Times: 1
+	Query: "Abudefduf curacao" ; Times: 1
+	Query: "Chromis atripectoralis mappable:1" ; Times: 1
+	Query: "Dascyllus trimaculatus mappable:1" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 2
+	Query: "Abudefduf coelestinus" ; Times: 2
+	Query: "Dascyllus reticulatus" ; Times: 2
+	Query: "Pomacentrus moluccensis" ; Times: 2
+	Query: "Lepidopus caudatus" ; Times: 3
+	Query: "Stegastes apicalis" ; Times: 1
+	Query: "Bathyraja" ; Times: 1
+	Query: "Amphiprion percula mappable:1" ; Times: 1
+	Query: "Pomacentrus taeniometopon mappable:1" ; Times: 2
+	Query: "Neopomacentrus filamentosus" ; Times: 1
+	Query: "Amphiprion clarkii mappable:1" ; Times: 1
+	Query: "Neopomacentrus filamentosus mappable:1" ; Times: 1
+	Query: "Pomacentrus wardi mappable:1" ; Times: 1
+	Query: "Dascyllus aruanus mappable:1" ; Times: 1
+	Query: "Chromis dimidiatus mappable:1" ; Times: 3
+	Query: "Pomacentrus pavo" ; Times: 1
+	Query: "Dascyllus marginatus marginatus" ; Times: 1
+	Query: "Pristotis jerdoni" ; Times: 1
+	Query: "Chromis klunzingeri mappable:1" ; Times: 1
+	Query: "Chrysiptera rollandi" ; Times: 1
+	Query: "Dischistodus melanotus" ; Times: 1
+	Query: "Amblypomacentrus breviceps mappable:1" ; Times: 1
+	Query: "Acanthochromis polyacanthus mappable:1" ; Times: 1
+	Query: "Parma mccullochi mappable:1" ; Times: 1
+	Query: "Glyphidodontops rollandi" ; Times: 1
+	Query: "Pomacentrus pavo mappable:1" ; Times: 1
+	Query: "calcarifer" ; Times: 3
+	Query: "Neopomacentrus cyanomos mappable:1" ; Times: 1
+	Query: "Parma microlepis" ; Times: 1
+	Query: "Halargyreus johnsonii mappable:1" ; Times: 1
+	Query: "Amphiprion clarkii" ; Times: 1
+	Query: "Abudefduf bengalensis mappable:1" ; Times: 1
+	Query: "&#34;Rhincodon typus&#34; mappable:1" ; Times: 1
+	Query: "Chromis cinerascens" ; Times: 1
+	Query: "Stegastes nigricans mappable:1" ; Times: 2
+	Query: "Abudefduf vaigiensis mappable:1" ; Times: 2
+	Query: "Glyphidodontops rollandi mappable:1" ; Times: 1
+	Query: "Pomacentrus wardi" ; Times: 1
+	Query: "Acanthochromis polyacanthus" ; Times: 1
+	Query: "Dischistodus melanotus mappable:1" ; Times: 1
+	Query: "Chrysiptera rollandi mappable:1" ; Times: 1
+	Query: "Pristotis obtusirostris mappable:1" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "munroi" ; Times: 1
+	Query: "Dascyllus trimaculatus" ; Times: 1
+	Query: "Neopomacentrus cyanomos" ; Times: 1
+	Query: "Calcarifer" ; Times: 2
+	Query: "Dascyllus aruanus" ; Times: 1
+	Query: "Chromis klunzingeri" ; Times: 1
+	Query: "Lepidozygus tapeinosoma" ; Times: 1
+	Query: "lepidopus" ; Times: 1
+	Query: "Chlamydoselachus anguineus" ; Times: 3
+	Query: "Abudefduf lorenzi" ; Times: 1
+	Query: "Chromis abyssicola mappable:1" ; Times: 1
+	Query: "Microphis brachyurus" ; Times: 2
+	Query: "Dischistodus perspicillatus" ; Times: 1
+	Query: "Amphiprion rubrocinctus" ; Times: 1
+	Query: "Chromis dimidiatus" ; Times: 3
+	Query: "lepidopus caudatus" ; Times: 2
+	Query: "Stegastes apicalis mappable:1" ; Times: 1
+	Query: "Chromis nitida" ; Times: 1
+	Query: "Dascyllus reticulatus mappable:1" ; Times: 2
+	Query: "Amphiprion percula" ; Times: 1
+	Query: "Abudefduf bengalensis" ; Times: 1
+	Query: "Chromis nitida mappable:1" ; Times: 1
+	Query: "Dischistodus chrysopoecilus mappable:1" ; Times: 1
+	Query: "Dascyllus melanurus" ; Times: 1
+	Query: "Dascyllus melanurus mappable:1" ; Times: 1
+	Query: "Plectroglyphidodon leucozona mappable:1" ; Times: 1
+	Query: "Carcharhinus leucas" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1398 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acrocephalus" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 1
+
+
+End of report.

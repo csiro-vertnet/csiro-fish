@@ -1,0 +1,156 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 389
+Number of records retrieved in searches: 3558
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 380
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 34
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-22 ; Times: 8
+	Date: 2018-03-23 ; Times: 3
+	Date: 2018-03-01 ; Times: 3
+	Date: 2018-03-02 ; Times: 47
+	Date: 2018-03-03 ; Times: 22
+	Date: 2018-03-05 ; Times: 33
+	Date: 2018-03-28 ; Times: 4
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-26 ; Times: 80
+	Date: 2018-03-27 ; Times: 74
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 36
+	Date: 2018-03-21 ; Times: 36
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sardinella specificepithet:lemuru" ; Times: 6
+	Query: "genus:Tylerius specificepithet:spinosissimus" ; Times: 5
+	Query: "genus:Anodontostoma specificepithet:chacunda" ; Times: 5
+	Query: "genus:Batrachomoeus specificepithet:dubius" ; Times: 5
+	Query: "genus:Stolephorus specificepithet:brachycephalus" ; Times: 5
+	Query: "genus:Sternoptyx specificepithet:diaphana" ; Times: 2
+	Query: "genus:Halophryne specificepithet:ocellatus" ; Times: 5
+	Query: "genus:Cristiceps specificepithet:australis" ; Times: 5
+	Query: "genus:Chauliodus specificepithet:sloani" ; Times: 2
+	Query: "genus:Clupea specificepithet:pallasii" ; Times: 2
+	Query: "genus:Batrachomoeus specificepithet:trispinosus" ; Times: 5
+	Query: "genus:Thryssa specificepithet:setirostris" ; Times: 5
+	Query: "Clarias batrachus 1" ; Times: 1
+	Query: "genus:Sternoptyx specificepithet:obscura" ; Times: 5
+	Query: "trygonorrhina" ; Times: 2
+	Query: "genus:Sternoptyx specificepithet:pseudobscura" ; Times: 5
+	Query: "Alopias pelagicus" ; Times: 3
+	Query: "genus:Opisthopterus specificepithet:tardoore" ; Times: 5
+	Query: "genus:Nematalosa specificepithet:nasus" ; Times: 5
+	Query: "genus:Arothron specificepithet:manilensis" ; Times: 5
+	Query: "genus:Omobranchus specificepithet:punctatus" ; Times: 5
+	Query: "genus:Escualosa specificepithet:thoracata" ; Times: 5
+	Query: "genus:Cantherhines specificepithet:pardalis" ; Times: 4
+	Query: "genus:Pervagor specificepithet:janthinosoma" ; Times: 5
+	Query: "genus:Lagocephalus specificepithet:sceleratus" ; Times: 5
+	Query: "genus:Himantura specificepithet:walga" ; Times: 5
+	Query: "genus:Sardinella specificepithet:albella" ; Times: 2
+	Query: "genus:Arothron specificepithet:immaculatus" ; Times: 5
+	Query: "genus:Setipinna specificepithet:tenuifilis" ; Times: 5
+	Query: "genus:Gonostoma specificepithet:elongatum" ; Times: 2
+	Query: "genus:Argyropelecus specificepithet:sladeni" ; Times: 5
+	Query: "genus:Parvicrepis specificepithet:parvipinnis" ; Times: 5
+	Query: "genus:Dasyatis specificepithet:zugei" ; Times: 5
+	Query: "genus:Aspasmogaster specificepithet:tasmaniensis" ; Times: 8
+	Query: "genus:Anoplogaster specificepithet:cornuta" ; Times: 5
+	Query: "Rhincodon typus" ; Times: 1
+	Query: "genus:Clarias specificepithet:batrachus" ; Times: 5
+	Query: "genus:Thryssa specificepithet:kammalensis" ; Times: 5
+	Query: "genus:Petroscirtes specificepithet:mitratus" ; Times: 5
+	Query: "genus:Diodon specificepithet:hystrix" ; Times: 5
+	Query: "genus:Neotrygon specificepithet:kuhlii" ; Times: 5
+	Query: "glaucostegus" ; Times: 2
+	Query: "vincenti" ; Times: 1
+	Query: "genus:Tetraodon specificepithet:erythrotaenia" ; Times: 5
+	Query: "genus:Sphoeroides specificepithet:pachygaster" ; Times: 5
+	Query: "genus:Canthigaster specificepithet:valentini" ; Times: 2
+	Query: "genus:Lagocephalus specificepithet:lunaris" ; Times: 5
+	Query: "genus:Melanonus specificepithet:zugmayeri" ; Times: 5
+	Query: "genus:Nematalosa specificepithet:come" ; Times: 5
+	Query: "genus:Lepadichthys specificepithet:frenatus" ; Times: 5
+	Query: "genus:Canthigaster specificepithet:compressa" ; Times: 5
+	Query: "genus:Dussumieria specificepithet:acuta" ; Times: 5
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "genus:Creocele specificepithet:cardinalis" ; Times: 5
+	Query: "genus:Arothron specificepithet:hispidus" ; Times: 5
+	Query: "genus:Taeniura specificepithet:lymma" ; Times: 5
+	Query: "genus:Strongylura specificepithet:krefftii" ; Times: 5
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 6
+	Query: "genus:Pelagocephalus specificepithet:marki" ; Times: 5
+	Query: "genus:Opisthonema specificepithet:libertate" ; Times: 5
+	Query: "genus:Canthigaster specificepithet:bennetti" ; Times: 5
+	Query: "genus:Sardinops specificepithet:sagax" ; Times: 5
+	Query: "aptychotrema" ; Times: 1
+	Query: "Monopterus albus 1" ; Times: 1
+	Query: "genus:Balistapus specificepithet:undulatus" ; Times: 2
+	Query: "genus:Sardinella  specificepithet:albella" ; Times: 3
+	Query: "genus:Meiacanthus specificepithet:atrodorsalis" ; Times: 5
+	Query: "genus:Stolephorus specificepithet:indicus" ; Times: 5
+	Query: "genus:Omegophora specificepithet:armilla" ; Times: 5
+	Query: "genus:Thryssa specificepithet:baelama" ; Times: 5
+	Query: "Lampanyctus macdonaldi" ; Times: 1
+	Query: "genus:Himantura specificepithet:imbricata" ; Times: 5
+	Query: "genus:Chelonodon" ; Times: 3
+	Query: "genus:Lagocephalus specificepithet:inermis" ; Times: 5
+	Query: "genus:Dasyatis specificepithet:akajei" ; Times: 5
+	Query: "genus:Tydemania specificepithet:navigatoris" ; Times: 5
+	Query: "Epinephelus chlorostigma" ; Times: 2
+	Query: "genus:Salarias specificepithet:fasciatus" ; Times: 5
+	Query: "Aptychotrema" ; Times: 2
+	Query: "pomadasys kaakan" ; Times: 2
+	Query: "genus:Lagocephalus specificepithet:lagocephalus" ; Times: 5
+	Query: "genus:Canthigaster specificepithet:coronata" ; Times: 5
+	Query: "genus:Gymnothorax specificepithet:chilospilus" ; Times: 5
+	Query: "genus:Plagiotremus specificepithet:tapeinosoma" ; Times: 5
+	Query: "genus:Urolophus specificepithet:cruciatus" ; Times: 5
+	Query: "genus:Alabes specificepithet:hoesei" ; Times: 5
+	Query: "genus:Arothron specificepithet:nigropunctatus" ; Times: 5
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 3
+	Query: "specificepithet:chlorostigma" ; Times: 1
+	Query: "genus:Amblygaster specificepithet:sirm" ; Times: 5
+	Query: "genus:Halophryne specificepithet:diemensis" ; Times: 5
+	Query: "genus:Sardinella specificepithet:gibbosa" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1284 download events in this period)
+Total number of records downloaded: 19
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-05 ; Times: 2
+	Date: 2018-03-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterois volitans" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "ostracion meleagris" ; Times: 2
+
+
+End of report.

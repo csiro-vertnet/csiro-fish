@@ -1,0 +1,117 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 280
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 42
+	Country: United States ; Times: 49
+	Country: Germany ; Times: 6
+	Country: Japan ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 19
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-20 ; Times: 17
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-26 ; Times: 5
+	Date: 2018-02-19 ; Times: 8
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-22 ; Times: 6
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-05 ; Times: 37
+
+List of queries that retrieved data from the resource: 
+	Query: "Acanthurus dussumieri mappable:1" ; Times: 1
+	Query: "leptochilichthys" ; Times: 1
+	Query: "Prionurus maculatus mappable:1" ; Times: 1
+	Query: "A2220" ; Times: 1
+	Query: "Glossogobius circumspectus mappable:1" ; Times: 1
+	Query: "Prionurus maculatus" ; Times: 1
+	Query: "Acanthurus gahhm" ; Times: 2
+	Query: "Prionurus microlepidotus" ; Times: 1
+	Query: "synodus indicus" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "subaspera" ; Times: 1
+	Query: "Acanthurus dussumieri" ; Times: 1
+	Query: "Acanthurus grammoptilus" ; Times: 2
+	Query: "Naso annulatus" ; Times: 1
+	Query: "Naso brevirostris" ; Times: 2
+	Query: "Naso lituratus" ; Times: 2
+	Query: "specificepithet:glauca genus:Prionace" ; Times: 1
+	Query: "Acanthurus pyroferus" ; Times: 3
+	Query: "Rhincodon typus" ; Times: 6
+	Query: "Ctenochaetus stigosus" ; Times: 1
+	Query: "Acanthurus grammoptilus mappable:1" ; Times: 2
+	Query: "persparsia kopua" ; Times: 1
+	Query: "Naso annulatus mappable:1" ; Times: 1
+	Query: "Harriotta haeckeli" ; Times: 1
+	Query: "calcarifer" ; Times: 2
+	Query: "holtbyrnia" ; Times: 2
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "dermopterus mappable:1" ; Times: 1
+	Query: "Macrognathus siamensis" ; Times: 2
+	Query: "Naso unicornis" ; Times: 1
+	Query: "Mitsukurina owstoni" ; Times: 2
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Acanthurus olivaceus" ; Times: 2
+	Query: "Glossogobius aureus mappable:1" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 5
+	Query: "Acanthurus mata" ; Times: 3
+	Query: "Sardinella lemuru" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 19
+	Query: "Naso mcdadei" ; Times: 1
+	Query: "Amblygobius nocturnus" ; Times: 6
+	Query: "Naso mcdadei mappable:1" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "Glossogobius concavifrons mappable:1" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "Callicanthus lituratus" ; Times: 2
+	Query: "Acanthurus mata mappable:1" ; Times: 3
+	Query: "Naso unicornis mappable:1" ; Times: 1
+	Query: "Manta birostris" ; Times: 4
+	Query: "Glossogobius brunnoides mappable:1" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 1
+	Query: "Somniosus pacificus" ; Times: 2
+	Query: "Naso hexacanthus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1892 download events in this period)
+Total number of records downloaded: 27
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 4
+	Country: Czechia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "Pontinus" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,284 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 321
+Number of records retrieved in searches: 1468
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 21
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 281
+	Country: Venezuela ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 2
+	Date: 2018-10-05 ; Times: 24
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 3
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-23 ; Times: 30
+	Date: 2018-10-03 ; Times: 21
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 4
+	Date: 2018-10-16 ; Times: 8
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-11 ; Times: 7
+	Date: 2018-10-15 ; Times: 213
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Repomucenus macdonaldi mappable:1" ; Times: 1
+	Query: "Repomucenus leucobranchialis mappable:1" ; Times: 1
+	Query: "Filicampus tigris mappable:1" ; Times: 1
+	Query: "Rhynchostracion nasus" ; Times: 2
+	Query: "Hippocampus angustus mappable:1" ; Times: 4
+	Query: "Callionymus ogilbyi" ; Times: 2
+	Query: "Vanacampus phillipi" ; Times: 1
+	Query: "Hypselognathus rostratus mappable:1" ; Times: 1
+	Query: "Repomucenus calcaratus mappable:1" ; Times: 1
+	Query: "Micrognathus brevirostris brevirostris mappable:1" ; Times: 1
+	Query: "Hippocampus spinosissimus mappable:1" ; Times: 1
+	Query: "Ichthyocampus cristatus" ; Times: 1
+	Query: "Pseudobalistes fuscus" ; Times: 1
+	Query: "Eleutherochir opercularis" ; Times: 1
+	Query: "Callionymus kailolae" ; Times: 1
+	Query: "Hippocampus spinosissimus" ; Times: 1
+	Query: "Hippocampus breviceps" ; Times: 1
+	Query: "Hippocampus histrix mappable:1" ; Times: 6
+	Query: "Abalistes filamentosus mappable:1" ; Times: 1
+	Query: "Micrognathus brevirostris mappable:1" ; Times: 3
+	Query: "Solegnathus fasciatus" ; Times: 1
+	Query: "Stigmatopora argus" ; Times: 1
+	Query: "Pteroplatytrygon violacea" ; Times: 2
+	Query: "Haliichthys taeniophorus mappable:1" ; Times: 1
+	Query: "Lactoria fornasini mappable:1" ; Times: 1
+	Query: "Heraldia nocturna" ; Times: 1
+	Query: "Mitotichthys semistriatus" ; Times: 1
+	Query: "Syngnathoides biaculeatus mappable:1" ; Times: 1
+	Query: "Hippocampus hippocampus mappable:1" ; Times: 1
+	Query: "Sufflamen chrysopterus mappable:1" ; Times: 1
+	Query: "Hippocampus abdominalis mappable:1" ; Times: 1
+	Query: "Dactylopus dactylopus mappable:1" ; Times: 1
+	Query: "Lactoria cornuta mappable:1" ; Times: 1
+	Query: "Oneirodes kreffti" ; Times: 1
+	Query: "Syngnathus spicifer mappable:1" ; Times: 2
+	Query: "Microphis brachyurus" ; Times: 3
+	Query: "Callionymus kailolae mappable:1" ; Times: 1
+	Query: "Syngnathus margaritifer" ; Times: 1
+	Query: "Solegnathus spinosissimus" ; Times: 1
+	Query: "Leptoichthys fistularius mappable:1" ; Times: 1
+	Query: "Solegnathus fasciatus mappable:1" ; Times: 1
+	Query: "Callionymus meridionalis mappable:1" ; Times: 1
+	Query: "Synchiropus australis" ; Times: 1
+	Query: "Choeroichthys sculptus mappable:1" ; Times: 1
+	Query: "Stigmatophora nigra mappable:1" ; Times: 1
+	Query: "Sufflamen chrysoptera" ; Times: 1
+	Query: "Abalistes stellatus mappable:1" ; Times: 2
+	Query: "Eusphyra blochii" ; Times: 1
+	Query: "Urocampus carinirostris" ; Times: 1
+	Query: "Stipecampus cristatus mappable:1" ; Times: 1
+	Query: "Histiogamphelus briggsii mappable:1" ; Times: 1
+	Query: "Vanacampus phillipi mappable:1" ; Times: 1
+	Query: "Callionymus csiro mappable:1" ; Times: 1
+	Query: "Phyllopteryx taeniolatus" ; Times: 1
+	Query: "Syngnathus altirostris" ; Times: 1
+	Query: "Tetrosomus concatenatus mappable:1" ; Times: 1
+	Query: "Trachyrhamphus serratus" ; Times: 1
+	Query: "Microphis leiaspis" ; Times: 1
+	Query: "Hippocampus abdominalis" ; Times: 1
+	Query: "Hippocampus multispinus" ; Times: 1
+	Query: "Hippocampus kuda" ; Times: 8
+	Query: "Kimblaeus bassensis mappable:1" ; Times: 1
+	Query: "Filicampus tigris" ; Times: 1
+	Query: "pristipomoides" ; Times: 1
+	Query: "Syngnathus poecilolaemus" ; Times: 1
+	Query: "Tetrosomus reipublicae mappable:1" ; Times: 2
+	Query: "Callionymus ogilbyi mappable:1" ; Times: 2
+	Query: "Syngnathus spicifer" ; Times: 2
+	Query: "Hippocampus kuda mappable:1" ; Times: 8
+	Query: "Lactoria cornuta" ; Times: 1
+	Query: "Callionymus filamentosus" ; Times: 1
+	Query: "Histiogamphelus briggsii" ; Times: 1
+	Query: "Aulostomus chinensis" ; Times: 2
+	Query: "Callionymus australis" ; Times: 1
+	Query: "Balistes viridescens mappable:1" ; Times: 1
+	Query: "Solegnathus hardwickii" ; Times: 1
+	Query: "Hippocampus planifrons" ; Times: 1
+	Query: "Xanthichthys lineopunctatus mappable:1" ; Times: 1
+	Query: "Corythoichthys fasciatus mappable:1" ; Times: 2
+	Query: "Rhynchostracion nasus mappable:1" ; Times: 2
+	Query: "Hemibalistes chrysoptera" ; Times: 1
+	Query: "Hippocampus histrix" ; Times: 5
+	Query: "Haplophryne mollis" ; Times: 2
+	Query: "Hippocampus angustus" ; Times: 4
+	Query: "Solegnathus guentheri" ; Times: 1
+	Query: "Ostracion meleagris meleagris" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 1
+	Query: "Hippocampus minotaur" ; Times: 1
+	Query: "Balistapus undulatus" ; Times: 1
+	Query: "Halicampus grayi mappable:1" ; Times: 2
+	Query: "Syngnathus margaritifer mappable:1" ; Times: 1
+	Query: "Orbonymus rameus mappable:1" ; Times: 1
+	Query: "Hippocampus tuberculatus mappable:1" ; Times: 1
+	Query: "Rhynchostracion rhinorhynchus mappable:1" ; Times: 1
+	Query: "Callionymus filamentosus mappable:1" ; Times: 1
+	Query: "Hippocampus hendriki mappable:1" ; Times: 1
+	Query: "Callionymus grossi mappable:1" ; Times: 1
+	Query: "Tetrosomus gibbosus mappable:1" ; Times: 1
+	Query: "Leptonotus costatus mappable:1" ; Times: 1
+	Query: "Ostracion cubicus" ; Times: 1
+	Query: "Leptonotus costatus" ; Times: 1
+	Query: "Trachyramphus bicoarctatus mappable:1" ; Times: 1
+	Query: "Hippocampus trimaculatus mappable:1" ; Times: 1
+	Query: "Tetrosomus gibbosus" ; Times: 1
+	Query: "Callionymus australis mappable:1" ; Times: 1
+	Query: "Hippocampus tuberculatus" ; Times: 1
+	Query: "Diplogrammus goramensis" ; Times: 1
+	Query: "Hippocampus trimaculatus" ; Times: 1
+	Query: "Ostracion meleagris" ; Times: 1
+	Query: "Haliichthys taeniophorus" ; Times: 1
+	Query: "Diplogrammus goramensis mappable:1" ; Times: 1
+	Query: "Repomucenus limiceps" ; Times: 1
+	Query: "Corythoichthys fasciatus" ; Times: 2
+	Query: "Notiocampus ruber" ; Times: 1
+	Query: "Ostracion cubicus mappable:1" ; Times: 1
+	Query: "Lactoria diaphana" ; Times: 1
+	Query: "Syngnathus tuckeri" ; Times: 1
+	Query: "Canthidermis maculatus mappable:1" ; Times: 2
+	Query: "Leptonotus semistriatus mappable:1" ; Times: 1
+	Query: "Mitotichthys tuckeri" ; Times: 1
+	Query: "Solegnathus spinosissimus mappable:1" ; Times: 1
+	Query: "Heraldia nocturna mappable:1" ; Times: 1
+	Query: "Balistes vidua mappable:1" ; Times: 1
+	Query: "Solegnathus dunckeri mappable:1" ; Times: 1
+	Query: "Stipecampus cristatus" ; Times: 1
+	Query: "Choeroichthys sculptus" ; Times: 1
+	Query: "Trachyrhamphus bicoarctatus" ; Times: 1
+	Query: "Stigmatopora nigra" ; Times: 1
+	Query: "Stigmatopora nigra mappable:1" ; Times: 1
+	Query: "Foetorepus paxtoni" ; Times: 1
+	Query: "Synchiropus australis mappable:1" ; Times: 1
+	Query: "Sufflamen fraenatus mappable:1" ; Times: 1
+	Query: "Microphis leiaspis mappable:1" ; Times: 1
+	Query: "Microphis brachyurus brachyurus mappable:1" ; Times: 1
+	Query: "Balistes viridescens" ; Times: 1
+	Query: "Hippocampus whitei mappable:1" ; Times: 3
+	Query: "Abalistes stellatus" ; Times: 2
+	Query: "Callionymus sagitta" ; Times: 2
+	Query: "Lactoria fornasini" ; Times: 1
+	Query: "Histiogamphelus cristatus" ; Times: 1
+	Query: "Callionymus moretonensis mappable:1" ; Times: 3
+	Query: "Foetorepus paxtoni mappable:1" ; Times: 1
+	Query: "Halicampus grayi" ; Times: 2
+	Query: "Bathycallionymus moretonensis mappable:1" ; Times: 2
+	Query: "rhynchohyalus" ; Times: 2
+	Query: "Kimblaeus bassensis" ; Times: 1
+	Query: "Syngnathus cyanospilus" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "Syngnathoides biaculeatus" ; Times: 1
+	Query: "Solegnathus guentheri mappable:1" ; Times: 1
+	Query: "Balistapus aculeatus" ; Times: 1
+	Query: "b1496" ; Times: 1
+	Query: "Stigmatopora argus mappable:1" ; Times: 1
+	Query: "Stigmatophora nigra" ; Times: 1
+	Query: "Hexanchus nakamurai" ; Times: 1
+	Query: "Repomucenus macdonaldi" ; Times: 1
+	Query: "Hippocampus breviceps mappable:1" ; Times: 1
+	Query: "Rhynchostracion rhinorhynchus" ; Times: 1
+	Query: "Hippocampus hippocampus" ; Times: 1
+	Query: "Urocampus carinirostris mappable:1" ; Times: 1
+	Query: "Histiogamphelus cristatus mappable:1" ; Times: 1
+	Query: "Repomucenus leucobranchialis" ; Times: 1
+	Query: "Hippocampus minotaur mappable:1" ; Times: 1
+	Query: "Centrophorus acus" ; Times: 2
+	Query: "Hippocampus whitei" ; Times: 3
+	Query: "Trachyrhamphus bicoarctatus mappable:1" ; Times: 1
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "Microphis brachyurus brachyurus" ; Times: 1
+	Query: "Syngnathus curtirostris" ; Times: 1
+	Query: "Leptoichthys fistularius" ; Times: 1
+	Query: "altavela" ; Times: 2
+	Query: "Orbonymus rameus" ; Times: 1
+	Query: "Xanthichthys lineopunctatus" ; Times: 1
+	Query: "Sufflamen fraenatus" ; Times: 1
+	Query: "Callionymus meridionalis" ; Times: 1
+	Query: "Squalus mitsukurii" ; Times: 1
+	Query: "Callionymus grossi" ; Times: 1
+	Query: "Mitotichthys tuckeri mappable:1" ; Times: 1
+	Query: "Hippocampus hendriki" ; Times: 1
+	Query: "Bathycallionymus moretonensis" ; Times: 2
+	Query: "Lactoria diaphana mappable:1" ; Times: 1
+	Query: "Callionymus moretonensis" ; Times: 3
+	Query: "Repomucenus calcaratus" ; Times: 1
+	Query: "Aulostomus chinensis mappable:1" ; Times: 2
+	Query: "Canthidermis maculatus" ; Times: 2
+	Query: "Trachyramphus bicoarctatus" ; Times: 1
+	Query: "Foetorepus calauropomus" ; Times: 1
+	Query: "Hypselognathus rostratus" ; Times: 1
+	Query: "Repomucenus limiceps mappable:1" ; Times: 1
+	Query: "Xanthichthys ringens" ; Times: 2
+	Query: "Apterygocampus epinnulatus" ; Times: 1
+	Query: "Xenobalistes tumidipectoris" ; Times: 1
+	Query: "Phyllopteryx taeniolatus mappable:1" ; Times: 1
+	Query: "Foetorepus calauropomus mappable:1" ; Times: 1
+	Query: "Syngnathus parvicarinatus" ; Times: 1
+	Query: "Tetrosomus reipublicae" ; Times: 2
+	Query: "Foetorepus phasis" ; Times: 1
+	Query: "Maroubra perserrata" ; Times: 1
+	Query: "Syngnathus altirostris mappable:1" ; Times: 1
+	Query: "Solegnathus hardwickii mappable:1" ; Times: 1
+	Query: "Synchiropus rameus" ; Times: 1
+	Query: "Choeroichthys brachysoma" ; Times: 1
+	Query: "Dactylopus dactylopus" ; Times: 1
+	Query: "Micrognathus brevirostris brevirostris" ; Times: 1
+	Query: "Solegnathus dunckeri" ; Times: 1
+	Query: "Foetorepus phasis mappable:1" ; Times: 1
+	Query: "Margrethia valentinae" ; Times: 21
+	Query: "Tetrosomus concatenatus" ; Times: 1
+	Query: "Leptonotus semistriatus" ; Times: 1
+	Query: "Syngnathus parvicarinatus mappable:1" ; Times: 1
+	Query: "Centrophorus uyato" ; Times: 1
+	Query: "Xenobalistes tumidipectoris mappable:1" ; Times: 1
+	Query: "Synchiropus rameus mappable:1" ; Times: 1
+	Query: "Micrognathus brevirostris" ; Times: 3
+	Query: "Microphis brachyurus mappable:1" ; Times: 3
+	Query: "Hippocampus multispinus mappable:1" ; Times: 1
+	Query: "rhynchohyalus natalensis" ; Times: 1
+	Query: "Abalistes filamentosus" ; Times: 1
+	Query: "Doryichthys retzii" ; Times: 1
+	Query: "Eocallionymus papilio" ; Times: 1
+	Query: "Repomucenus planus" ; Times: 1
+	Query: "Tonlesapia tsukawakii mappable:1" ; Times: 1
+	Query: "Sufflamen chrysopterus" ; Times: 1
+	Query: "Centrophorus squamosus" ; Times: 1
+	Query: "scleropages" ; Times: 2
+	Query: "Tonlesapia tsukawakii" ; Times: 1
+	Query: "Mitotichthys semistriatus mappable:1" ; Times: 1
+	Query: "Balistes vidua" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1300 download events in this period)
+Total number of records downloaded: 78
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Siphamia" ; Times: 1
+	Query: "specificepithet:saltatrix genus:Pomatomus" ; Times: 1
+
+
+End of report.

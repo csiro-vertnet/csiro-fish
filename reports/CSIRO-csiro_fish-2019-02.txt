@@ -1,0 +1,100 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 348
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: France ; Times: 37
+	Country: Portugal ; Times: 14
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-15 ; Times: 4
+	Date: 2019-02-24 ; Times: 2
+	Date: 2019-02-25 ; Times: 3
+	Date: 2019-02-26 ; Times: 3
+	Date: 2019-02-27 ; Times: 22
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-07 ; Times: 6
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-28 ; Times: 5
+	Date: 2019-02-01 ; Times: 12
+	Date: 2019-02-14 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "polyipnus triphanos" ; Times: 2
+	Query: "Alopias vulpinus mappable:1" ; Times: 2
+	Query: "manta birostris" ; Times: 2
+	Query: "Ophisurus serpens mappable:1" ; Times: 1
+	Query: "Trygonorrhina" ; Times: 1
+	Query: "Centroscymnus coelolepis mappable:1" ; Times: 1
+	Query: "genus:lates" ; Times: 2
+	Query: "Lepidion schmidti" ; Times: 2
+	Query: "Tylosurus acus acus mappable:1" ; Times: 2
+	Query: "Bathytyphlops marionae" ; Times: 2
+	Query: "Amblyraja radiata mappable:1" ; Times: 1
+	Query: "Rhinobatos punctifer" ; Times: 4
+	Query: "Centrophorus squamosus mappable:1" ; Times: 1
+	Query: "Harriotta raleighana" ; Times: 1
+	Query: "Aetobatus narutobiei" ; Times: 1
+	Query: "Auxis thazard mappable:1" ; Times: 1
+	Query: "Cheilopogon furcatus mappable:1" ; Times: 2
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 8
+	Query: "Lampris guttatus" ; Times: 1
+	Query: "tetrabrachium ocellatum" ; Times: 1
+	Query: "aptychotrema" ; Times: 1
+	Query: "Melanocetus murrayi" ; Times: 4
+	Query: "specificepithet:floridus " ; Times: 1
+	Query: "Centrophorus granulosus mappable:1" ; Times: 1
+	Query: "Dalatias licha mappable:1" ; Times: 1
+	Query: "Bathypterois longipes" ; Times: 1
+	Query: "Microphis brachyurus mappable:1" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 1
+	Query: "Cheilopogon cyanopterus mappable:1" ; Times: 3
+	Query: "Deania calcea mappable:1" ; Times: 1
+	Query: "Metavelifer multiradiatus" ; Times: 3
+	Query: "Chlamydoselachus anguineus mappable:1" ; Times: 1
+	Query: "Diplophos rebainsi" ; Times: 4
+	Query: "Bathypterois grallator" ; Times: 1
+	Query: "xiphias gladius" ; Times: 2
+	Query: "Lampanyctus macdonaldi" ; Times: 3
+	Query: "Ablennes hians mappable:1" ; Times: 8
+	Query: "sphoeroides pachygaster" ; Times: 1
+	Query: "Manta birostris" ; Times: 1
+	Query: "Lamna nasus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1227 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aetobatus narutobiei" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "Manta birostris" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,118 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 143
+Number of records retrieved in searches: 689
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 30
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 95
+	Country: United States ; Times: 13
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-11 ; Times: 8
+	Date: 2019-03-01 ; Times: 25
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-10 ; Times: 2
+	Date: 2019-03-08 ; Times: 9
+	Date: 2019-03-18 ; Times: 8
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-04 ; Times: 39
+	Date: 2019-03-14 ; Times: 11
+	Date: 2019-03-06 ; Times: 6
+	Date: 2019-03-12 ; Times: 5
+	Date: 2019-03-07 ; Times: 15
+	Date: 2019-03-29 ; Times: 3
+	Date: 2019-03-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Seriola rivoliana mappable:1" ; Times: 3
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 1
+	Query: "Lampris guttatus mappable:1" ; Times: 7
+	Query: "Lepidocybium flavobrunneum mappable:1" ; Times: 1
+	Query: "rhina ancylostoma" ; Times: 1
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 1
+	Query: "Elagatis bipinnulata mappable:1" ; Times: 3
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "manta birostris" ; Times: 1
+	Query: "Alectis ciliaris mappable:1" ; Times: 2
+	Query: "&#34;Perca fluviatilis&#34;" ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 7
+	Query: "Rachycentron canadum mappable:1" ; Times: 1
+	Query: "Elagatis bipinnulata" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 8
+	Query: "Rhincodon typus" ; Times: 13
+	Query: "Squalus megalops" ; Times: 1
+	Query: "mobula japanica" ; Times: 2
+	Query: "Diodon hystrix mappable:1" ; Times: 8
+	Query: "Sphyrna zygaena mappable:1" ; Times: 3
+	Query: "mobula" ; Times: 1
+	Query: "Anoplocapros lenticularis" ; Times: 1
+	Query: "Coryphaenoides rudis mappable:1" ; Times: 5
+	Query: "Decapterus macarellus mappable:1" ; Times: 3
+	Query: "Rhizoprionodon acutus" ; Times: 1
+	Query: "specificepithet:oglinum genus:Opisthonema" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "Talismania antillarum" ; Times: 1
+	Query: "Thunnus obesus mappable:1" ; Times: 2
+	Query: "Manta birostris" ; Times: 1
+	Query: "Arnoglossus waitei" ; Times: 1
+	Query: "Arnoglossus micrommatus" ; Times: 1
+	Query: "mirognathus" ; Times: 1
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "Ruvettus pretiosus mappable:1" ; Times: 1
+	Query: "Xiphias gladius" ; Times: 3
+	Query: "genus:Mobula" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "hawaiensis" ; Times: 1
+	Query: "Pterois volitans mappable:1" ; Times: 1
+	Query: "narcetes" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+	Query: "Nomeus gronovii mappable:1" ; Times: 4
+	Query: "Carcharhinus brevipinna" ; Times: 2
+	Query: "Antennarius striatus mappable:1" ; Times: 6
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 2
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 1
+	Query: "Barbourisia" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 3
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "Xiphias gladius mappable:1" ; Times: 2
+	Query: "Malacocephalus laevis mappable:1" ; Times: 5
+	Query: "Arnoglossus muelleri" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Nesiarchus nasutus mappable:1" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 2
+	Query: "Rhincodon typus mappable:1" ; Times: 8
+	Query: "Carcharhinus longimanus mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1281 download events in this period)
+Total number of records downloaded: 39
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhincodon typus" ; Times: 1
+	Query: "Anoplocapros lenticularis" ; Times: 2
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+
+
+End of report.

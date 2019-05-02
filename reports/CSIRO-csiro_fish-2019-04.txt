@@ -1,0 +1,60 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 176
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Norway ; Times: 2
+	Country: France ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-11 ; Times: 3
+	Date: 2019-04-16 ; Times: 8
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-04 ; Times: 5
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-02 ; Times: 2
+	Date: 2019-04-29 ; Times: 4
+	Date: 2019-04-08 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Centriscus scutatus" ; Times: 2
+	Query: "genus:rhincodon basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "flavicauda" ; Times: 1
+	Query: "specificepithet:typus genus:rhincodon basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ceratias" ; Times: 3
+	Query: "Amblyraja radiata mappable:1" ; Times: 2
+	Query: "SCARUS rubroviolaceus" ; Times: 1
+	Query: "Ruvettus pretiosus" ; Times: 2
+	Query: "Zeus faber mappable:1" ; Times: 4
+	Query: "scarus ghobban" ; Times: 3
+	Query: "specificepithet:radiata genus:amblyraja basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "trachichthys australis" ; Times: 1
+	Query: "optivus elongatus" ; Times: 4
+	Query: "SCARUS ghobban" ; Times: 1
+	Query: "specificepithet:radiata genus:amblyraja" ; Times: 1
+	Query: "optivus agastos" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1263 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.

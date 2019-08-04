@@ -1,0 +1,94 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 483
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Portugal ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 7
+	Date: 2019-07-08 ; Times: 39
+	Date: 2019-07-19 ; Times: 4
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Psettina variegata" ; Times: 1
+	Query: "genus:Simenchelys specificepithet:parasitica" ; Times: 1
+	Query: "genus:Chelonodon" ; Times: 1
+	Query: "genus:Lagocephalus specificepithet:suezensis" ; Times: 1
+	Query: "genus:Gollum specificepithet:attenuatus" ; Times: 1
+	Query: "genus:Torquigener specificepithet:whitleyi" ; Times: 1
+	Query: "genus:Galeus specificepithet:gracilis" ; Times: 1
+	Query: "genus:Scopelarchus specificepithet:guentheri" ; Times: 1
+	Query: "genus:Ostracion specificepithet:cubicus" ; Times: 1
+	Query: "genus:Melanostomias specificepithet:valdiviae" ; Times: 1
+	Query: "rhynchobatus australiae" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:zugei" ; Times: 1
+	Query: "genus:Figaro specificepithet:boardmani" ; Times: 1
+	Query: "genus:Harengula specificepithet:clupeola" ; Times: 1
+	Query: "genus:Clupea specificepithet:harengus" ; Times: 1
+	Query: "CSIRO H5889.42" ; Times: 2
+	Query: "genus:Bythaelurus specificepithet:incanus" ; Times: 1
+	Query: "genus:Aeoliscus specificepithet:strigatus" ; Times: 1
+	Query: "genus:Callogobius" ; Times: 1
+	Query: "genus:Halargyreus" ; Times: 1
+	Query: "genus:Taaningichthys specificepithet:bathyphilus" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "genus:Antennarius specificepithet:commerson" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:starksi" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "genus:Benthodesmus specificepithet:elongatus" ; Times: 1
+	Query: "genus:Ostichthys" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:akajei" ; Times: 1
+	Query: "genus:Aspasmogaster specificepithet:tasmaniensis" ; Times: 1
+	Query: "genus:Asymbolus specificepithet:pallidus" ; Times: 1
+	Query: "Psettina tosana" ; Times: 1
+	Query: "Psettina" ; Times: 2
+	Query: "genus:Galeus specificepithet:eastmani" ; Times: 1
+	Query: "Hippocampus breviceps" ; Times: 1
+	Query: "genus:Triacanthus specificepithet:biaculeatus" ; Times: 1
+	Query: "Psettina IIJIMAE" ; Times: 1
+	Query: "genus:Proscyllium specificepithet:magnificum" ; Times: 1
+	Query: "Bathyraja" ; Times: 1
+	Query: "genus:Sardina specificepithet:pilchardus" ; Times: 1
+	Query: "ophichthus altipennis" ; Times: 1
+	Query: "CSIRO H947-10" ; Times: 3
+	Query: "genus:Tetractenos specificepithet:hamiltoni" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 1
+	Query: "genus:Diplophos specificepithet:taenia" ; Times: 1
+	Query: "genus:Proscyllium specificepithet:habereri" ; Times: 1
+	Query: "genus:Pseudoscopelus" ; Times: 1
+	Query: "Parabothus taiwanensis" ; Times: 1
+	Query: "Amblyraja hyperborea" ; Times: 2
+	Query: "Macroramphosidae" ; Times: 1
+	Query: "Lamna" ; Times: 1
+	Query: "russatus" ; Times: 1
+	Query: "Ebosia bleekeri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 985 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.

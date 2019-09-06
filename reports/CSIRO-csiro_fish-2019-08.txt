@@ -1,0 +1,107 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 340
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 21
+	Country: United Kingdom ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Venezuela ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-06 ; Times: 6
+	Date: 2019-08-08 ; Times: 11
+	Date: 2019-08-19 ; Times: 2
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-02 ; Times: 3
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 7
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-26 ; Times: 3
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-25 ; Times: 19
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Neosilurus hyrtlii" ; Times: 1
+	Query: "sphyrna zygaena" ; Times: 2
+	Query: "Squalus mitsukurii" ; Times: 1
+	Query: "Mobula japanica" ; Times: 1
+	Query: "Sternoptyx pseudobscura" ; Times: 1
+	Query: "Geotria" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "genus:rhinogobius" ; Times: 1
+	Query: "Argyropelecus gigas" ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 2
+	Query: "Dalatias licha" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 2
+	Query: "bulleri" ; Times: 1
+	Query: "schindleria" ; Times: 3
+	Query: "Diodon hystrix mappable:1" ; Times: 2
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "lepidoptera" ; Times: 1
+	Query: "genus:Trachinocephalus specificepithet:myops" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 1
+	Query: "Omobranchus punctatus" ; Times: 1
+	Query: "Centroscymnus owstoni" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "coppingeri" ; Times: 1
+	Query: "Xiphias gladius" ; Times: 2
+	Query: "Carcharhinus longimanus" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 1
+	Query: "Alopias superciliosus" ; Times: 1
+	Query: "Centrophorus uyato" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Pseudocarcharias kamoharai" ; Times: 1
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "Carcharhinus altimus" ; Times: 1
+	Query: "Pteroplatytrygon violacea" ; Times: 1
+	Query: "Mustelus antarcticus mappable:1" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 1
+	Query: "Taenioides purpurascens" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 5
+	Query: "Diodon holocanthus mappable:1" ; Times: 2
+	Query: "Xiphias gladius mappable:1" ; Times: 9
+	Query: "Hexanchus nakamurai" ; Times: 1
+	Query: "Squaliolus laticaudus" ; Times: 1
+	Query: "MANTA birostris" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "Centrophorus squamosus" ; Times: 1
+	Query: "scleropages" ; Times: 1
+	Query: "Rhincodon typus mappable:1" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1034 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.

@@ -1,0 +1,102 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 369
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Portugal ; Times: 10
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 13
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Greece ; Times: 2
+	Country: Japan ; Times: 3
+	Country: New Zealand ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 5
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 15
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-22 ; Times: 6
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mordacia" ; Times: 1
+	Query: "Nealotus tripes mappable:1" ; Times: 1
+	Query: "Grammicolepis brachiusculus" ; Times: 1
+	Query: "Bathyuroconger vicinus" ; Times: 1
+	Query: "Polyprion americanus" ; Times: 2
+	Query: "&#34;Diretmoides pauciradiatus&#34;" ; Times: 2
+	Query: "&#34;Allocyttus verrucosus&#34;" ; Times: 1
+	Query: "Rhincodon typus" ; Times: 1
+	Query: "family:Geotriidae mappable:1" ; Times: 1
+	Query: "Uraspis secunda mappable:1" ; Times: 1
+	Query: "Mordacia mordax" ; Times: 4
+	Query: "Gempylus serpens mappable:1" ; Times: 1
+	Query: "Bathyraja richardsoni" ; Times: 1
+	Query: "Decapterus tabl mappable:1" ; Times: 1
+	Query: "Beryx splendens mappable:1" ; Times: 1
+	Query: "Scomberesox saurus saurus mappable:1" ; Times: 1
+	Query: "Barbourisia rufa mappable:1" ; Times: 1
+	Query: "rhinogobius" ; Times: 3
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Geotria australis" ; Times: 1
+	Query: "&#34;Bathyuroconger vicinus&#34;" ; Times: 2
+	Query: "Pristiophorus" ; Times: 2
+	Query: "Pterois volitans mappable:1" ; Times: 1
+	Query: "genus:paraheminodus" ; Times: 2
+	Query: "Dysalotus alcocki" ; Times: 1
+	Query: "&#34;Asquamiceps hjorti &#34;" ; Times: 3
+	Query: "baxteri" ; Times: 1
+	Query: "B1362" ; Times: 1
+	Query: "Sarda orientalis mappable:1" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "&#34;Heterophotus ophistoma&#34;" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1073 download events in this period)
+Total number of records downloaded: 158
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-26 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "family:(Geotriidae OR Mordaciidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "rhinogobius" ; Times: 1
+	Query: "family:Geotriidae mappable:1" ; Times: 1
+	Query: "family:Geotriidae" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "family:(Geotriidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 2
+
+
+End of report.

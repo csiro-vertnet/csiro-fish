@@ -1,0 +1,80 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 429
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Japan ; Times: 2
+	Country: Iraq ; Times: 1
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 11
+	Date: 2020-05-27 ; Times: 3
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-30 ; Times: 6
+	Date: 2020-05-29 ; Times: 14
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 5
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "harpadon nehereus" ; Times: 1
+	Query: "halosaurus ovenii" ; Times: 1
+	Query: "erosa erosa" ; Times: 1
+	Query: "haliichthys taeniophorus" ; Times: 1
+	Query: "eumegistus illustris" ; Times: 1
+	Query: "grammatobothus polyophthalmus" ; Times: 1
+	Query: "hime japonica" ; Times: 1
+	Query: "lepidocybium" ; Times: 3
+	Query: "heraldia nocturna" ; Times: 1
+	Query: "euristhmus lepturus" ; Times: 1
+	Query: "Abalistes filamentosus mappable:1" ; Times: 6
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "Xanthichthys lineopunctatus mappable:1" ; Times: 2
+	Query: "Melamphaes suborbitalis" ; Times: 5
+	Query: "ebosia bleekeri" ; Times: 1
+	Query: "specificepithet:erosa genus:erosa" ; Times: 1
+	Query: "parvicrepis" ; Times: 1
+	Query: "rhinogobius" ; Times: 1
+	Query: "evermannella balbo" ; Times: 1
+	Query: "hyperlophus vittatus" ; Times: 1
+	Query: "Xenobalistes tumidipectoris mappable:1" ; Times: 1
+	Query: "Yemen" ; Times: 1
+	Query: "dactylopus dactylopus" ; Times: 1
+	Query: "(rhinogobius) year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "inegocia japonica" ; Times: 2
+	Query: "halimochirurgus centriscoides" ; Times: 1
+	Query: "ellochelon" ; Times: 3
+	Query: "emmelichthys nitidus" ; Times: 2
+	Query: "Abalistes stellatus mappable:1" ; Times: 1
+	Query: "favonigobius lateralis" ; Times: 2
+	Query: "foetorepus calauropomus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1106 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Catostomus" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,160 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 894
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 56
+	Country: South Africa ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Japan ; Times: 56
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 6
+	Date: 2020-02-04 ; Times: 11
+	Date: 2020-02-27 ; Times: 17
+	Date: 2020-02-10 ; Times: 7
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-06 ; Times: 4
+	Date: 2020-02-14 ; Times: 9
+	Date: 2020-02-17 ; Times: 10
+	Date: 2020-02-05 ; Times: 56
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-03 ; Times: 4
+	Date: 2020-02-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "Nematops microstoma" ; Times: 14
+	Query: "Melanostigma gelatinosum" ; Times: 1
+	Query: "Cataetyx" ; Times: 3
+	Query: "Saccogaster" ; Times: 1
+	Query: "Upeneus sundaicus mappable:1" ; Times: 2
+	Query: "Upeneus luzonius mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus sundaicus mappable:1" ; Times: 2
+	Query: "scientificname:Upeneus oligospilus mappable:1" ; Times: 2
+	Query: "scientificname:Parupeneus chrysopleuron mappable:1" ; Times: 1
+	Query: "Nematops" ; Times: 7
+	Query: "Upeneus asymmetricus mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "Pseudonus" ; Times: 1
+	Query: "Gymnoscopelus fraseri" ; Times: 1
+	Query: "scientificname:Upeneus vittatus mappable:1" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus subvittatus mappable:1" ; Times: 1
+	Query: "Upeneichthys vlamingii mappable:1" ; Times: 2
+	Query: "scientificname:Upeneichthys stotti mappable:1" ; Times: 1
+	Query: "Gymnoscopelus bolini" ; Times: 1
+	Query: "scientificname:Upeneichthys vlamingii mappable:1" ; Times: 2
+	Query: "Diplophos australis" ; Times: 7
+	Query: "Upeneus sulphureus mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus heptacanthus mappable:1" ; Times: 1
+	Query: "Hintonia candens" ; Times: 1
+	Query: "scientificname:Upeneus luzonius mappable:1" ; Times: 1
+	Query: "Parupeneus chrysopleuron mappable:1" ; Times: 1
+	Query: "loxodon" ; Times: 1
+	Query: "scientificname:Upeneus guttatus mappable:1" ; Times: 1
+	Query: "Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "Diplacanthopoma" ; Times: 2
+	Query: "Glaucostegus" ; Times: 1
+	Query: "Polymetme illustris" ; Times: 1
+	Query: "Upeneichthys lineatus mappable:1" ; Times: 1
+	Query: "Gymnoscopelus piabilis" ; Times: 1
+	Query: "Poecilopsetta praelonga" ; Times: 3
+	Query: "scientificname:Upeneus itoui mappable:1" ; Times: 1
+	Query: "Metelectrona ventralis" ; Times: 1
+	Query: "scientificname:Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "scientificname:Upeneus sulphureus mappable:1" ; Times: 1
+	Query: "Upeneus australiae mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus australiae mappable:1" ; Times: 1
+	Query: "Grammonus" ; Times: 1
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "coppingeri" ; Times: 1
+	Query: "Gymnoscopelus microlampas" ; Times: 1
+	Query: "Upeneus subvittatus mappable:1" ; Times: 1
+	Query: "rhinogobius" ; Times: 10
+	Query: "scientificname:Parupeneus spilurus mappable:1" ; Times: 1
+	Query: "Lampadena notialis" ; Times: 1
+	Query: "Lampadena speculigera" ; Times: 1
+	Query: "Gymnoscopelus nicholsi" ; Times: 1
+	Query: "scientificname:Upeneus tragula mappable:1" ; Times: 2
+	Query: "scientificname:Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "Parupeneus indicus mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus asymmetricus mappable:1" ; Times: 1
+	Query: "Parupeneus heptacanthus mappable:1" ; Times: 1
+	Query: "Upeneus tragula mappable:1" ; Times: 2
+	Query: "Upeneichthys stotti mappable:1" ; Times: 1
+	Query: "Gymnoscopelus braueri" ; Times: 1
+	Query: "scientificname:Parupeneus jansenii mappable:1" ; Times: 1
+	Query: "Sladenia" ; Times: 2
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "Thunnus obesus mappable:1" ; Times: 1
+	Query: "Parupeneus jansenii mappable:1" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus indicus mappable:1" ; Times: 2
+	Query: "Parupeneus spilurus mappable:1" ; Times: 1
+	Query: "Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "Upeneus oligospilus mappable:1" ; Times: 1
+	Query: "Phosichthys" ; Times: 1
+	Query: "Upeneus vittatus mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "Lampichthys procerus" ; Times: 1
+	Query: "Krefftichthys anderssoni" ; Times: 1
+	Query: "Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "scientificname:Upeneichthys lineatus mappable:1" ; Times: 1
+	Query: "Poecilopsetta colorata" ; Times: 2
+	Query: "Hygophum hanseni" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1023 download events in this period)
+Total number of records downloaded: 132
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Japan ; Times: 3
+	Country: South Africa ; Times: 14
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 6
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lobianchia dofleini" ; Times: 1
+	Query: "Lampadena notialis" ; Times: 1
+	Query: "Lampichthys procerus" ; Times: 1
+	Query: "Metelectrona ventralis" ; Times: 1
+	Query: "Hintonia candens" ; Times: 1
+	Query: "Gymnoscopelus fraseri" ; Times: 1
+	Query: "Gymnoscopelus microlampas" ; Times: 1
+	Query: "rhinogobius" ; Times: 3
+	Query: "Gymnoscopelus piabilis" ; Times: 1
+	Query: "Lampadena speculigera" ; Times: 1
+	Query: "Gymnoscopelus nicholsi" ; Times: 1
+	Query: "Hygophum hanseni" ; Times: 1
+	Query: "Krefftichthys anderssoni" ; Times: 1
+	Query: "Gymnoscopelus braueri" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "Gymnoscopelus bolini" ; Times: 1
+
+
+End of report.

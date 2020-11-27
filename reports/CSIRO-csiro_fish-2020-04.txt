@@ -1,0 +1,178 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 590
+Number of records retrieved in searches: 4612
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: South Africa ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 569
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-07 ; Times: 67
+	Date: 2020-04-14 ; Times: 21
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-21 ; Times: 67
+	Date: 2020-04-01 ; Times: 6
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-03 ; Times: 25
+	Date: 2020-04-08 ; Times: 393
+	Date: 2020-04-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 5
+	Query: "Ambassis miops" ; Times: 5
+	Query: "Cheilopogon spilonotopterus" ; Times: 5
+	Query: "Spirinchus starksi" ; Times: 5
+	Query: "Barbonymus altus" ; Times: 5
+	Query: "Sardinella lemuru" ; Times: 5
+	Query: "Uraspis secunda" ; Times: 5
+	Query: "Tinca tinca" ; Times: 7
+	Query: "Carangoides dinema" ; Times: 5
+	Query: "Decapterus macrosoma" ; Times: 5
+	Query: "Carangoides chrysophrys" ; Times: 5
+	Query: "Rhadinesthes decimus" ; Times: 1
+	Query: "Alepes djedaba" ; Times: 5
+	Query: "Caesio Caerulaurea" ; Times: 2
+	Query: "Carangoides ferdau" ; Times: 5
+	Query: "Cheilopogon suttoni" ; Times: 5
+	Query: "Pangasius pangasius" ; Times: 9
+	Query: "Hirundichthys oxycephalus" ; Times: 5
+	Query: "Nematalosa come" ; Times: 4
+	Query: "Merluccius australis" ; Times: 6
+	Query: "Pseudomugil inconspicuus mappable:1" ; Times: 2
+	Query: "Chrysochir aureus" ; Times: 6
+	Query: "Cheilopogon arcticeps" ; Times: 5
+	Query: "Thryssa kammalensis" ; Times: 5
+	Query: "Trachurus symmetricus" ; Times: 5
+	Query: "Clarias batrachus" ; Times: 21
+	Query: "Atherinosoma microstoma" ; Times: 2
+	Query: "Leuciscus leuciscus" ; Times: 14
+	Query: "Neosilurus hyrtlii" ; Times: 8
+	Query: "Decapterus kurroides" ; Times: 5
+	Query: "Nuchequula gerreoides" ; Times: 5
+	Query: "Pseudomugil gertrudae mappable:1" ; Times: 1
+	Query: "Decapterus tabl" ; Times: 5
+	Query: "Hyporhamphus quoyi" ; Times: 5
+	Query: "Argyrosomus hololepidotus" ; Times: 3
+	Query: "Cypselurus poecilopterus" ; Times: 5
+	Query: "Nuchequula longicornis" ; Times: 5
+	Query: "Anguilla australis" ; Times: 6
+	Query: "Pseudomugil paludicola mappable:1" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 22
+	Query: "Opisthonema oglinum" ; Times: 4
+	Query: "Sardinella gibbosa" ; Times: 9
+	Query: "Leiognathus brevirostris" ; Times: 5
+	Query: "Cypselurus naresii" ; Times: 5
+	Query: "Arius arius" ; Times: 8
+	Query: "Clupea pallasii" ; Times: 5
+	Query: "Trachurus japonicus" ; Times: 5
+	Query: "Chitala ornata" ; Times: 9
+	Query: "Merluccius merluccius" ; Times: 6
+	Query: "Plotosus canius" ; Times: 5
+	Query: "Sardinella fimbriata" ; Times: 5
+	Query: "Merluccius capensis" ; Times: 6
+	Query: "Triacanthus biaculeatus" ; Times: 2
+	Query: "Siganus spinus" ; Times: 5
+	Query: "Merluccius gayi" ; Times: 6
+	Query: "Neoarius graeffei" ; Times: 3
+	Query: "Alepes kleinii" ; Times: 5
+	Query: "Decapterus macarellus" ; Times: 5
+	Query: "Decapterus muroadsi" ; Times: 5
+	Query: "Hilsa kelee" ; Times: 5
+	Query: "Nesiarchus nasutus" ; Times: 5
+	Query: "Ambassis gymnocephalus" ; Times: 5
+	Query: "Hirundichthys rondeletii" ; Times: 5
+	Query: "Cypselurus opisthopus" ; Times: 5
+	Query: "Pseudomugil signifer mappable:1" ; Times: 1
+	Query: "Siganus canaliculatus" ; Times: 5
+	Query: "Parastromateus niger" ; Times: 5
+	Query: "Lampanyctus lepidolychnus" ; Times: 1
+	Query: "Triodon macropterus" ; Times: 6
+	Query: "Merluccius paradoxus" ; Times: 6
+	Query: "Eleutheronema tetradactylum" ; Times: 5
+	Query: "Carassius auratus" ; Times: 14
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Siganus fuscescens" ; Times: 5
+	Query: "Anodontostoma chacunda" ; Times: 4
+	Query: "Gerres oyena" ; Times: 5
+	Query: "Cheilopogon cyanopterus" ; Times: 5
+	Query: "Netuma thalassina" ; Times: 8
+	Query: "Lutjanus argentimaculatus" ; Times: 5
+	Query: "mesopristes argenteus" ; Times: 2
+	Query: "Decapterus russelli" ; Times: 5
+	Query: "Acanthistius ocellatus" ; Times: 4
+	Query: "Lampanyctus macdonaldi" ; Times: 1
+	Query: "Cypselurus oligolepis" ; Times: 5
+	Query: "johnsoni" ; Times: 1
+	Query: "Oncorhynchus tshawytscha" ; Times: 5
+	Query: "Pisodonophis boro" ; Times: 5
+	Query: "Trachurus trachurus" ; Times: 5
+	Query: "Samaris" ; Times: 2
+	Query: "Netuma bilineata" ; Times: 3
+	Query: "Hexanematichthys mastersi" ; Times: 3
+	Query: "Atule mate" ; Times: 5
+	Query: "Pleuronectes platessa" ; Times: 5
+	Query: "Hirundichthys speculiger" ; Times: 5
+	Query: "Sardinella albella" ; Times: 9
+	Query: "Perca fluviatilis" ; Times: 12
+	Query: "Nuchequula flavaxilla" ; Times: 5
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Sardinella jussieu" ; Times: 5
+	Query: "Hemiarius dioctes" ; Times: 3
+	Query: "Lampanyctus australis" ; Times: 1
+	Query: "Channa striata" ; Times: 5
+	Query: "pardus" ; Times: 1
+	Query: "Uraspis uraspis" ; Times: 5
+	Query: "Harpadon nehereus" ; Times: 3
+	Query: "Carassius carassius" ; Times: 12
+	Query: "Carangoides orthogrammus" ; Times: 5
+	Query: "Carangoides oblongus" ; Times: 5
+	Query: "Argyrosomus japonicus" ; Times: 6
+	Query: "Salmo trutta" ; Times: 7
+	Query: "Carangoides fulvoguttatus" ; Times: 5
+	Query: "Cheilopogon atrisignis" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1171 download events in this period)
+Total number of records downloaded: 127
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-08 ; Times: 7
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lampanyctus lepidolychnus" ; Times: 1
+	Query: "Lampanyctus alatus" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "Lampanyctus festivus" ; Times: 1
+	Query: "Lampanyctus pusillus" ; Times: 1
+	Query: "Hygophum macrochir" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Nannobrachium atrum" ; Times: 1
+	Query: "Lampanyctus intricarius" ; Times: 1
+	Query: "Lampanyctus australis" ; Times: 1
+	Query: "Lampanyctus macdonaldi" ; Times: 1
+
+
+End of report.

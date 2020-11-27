@@ -1,0 +1,190 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 282
+Number of records retrieved in searches: 1931
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: South Africa ; Times: 15
+	Country: Singapore ; Times: 17
+	Country: France ; Times: 198
+	Country: United Kingdom ; Times: 3
+	Country: Japan ; Times: 9
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-01 ; Times: 64
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-05 ; Times: 69
+	Date: 2020-01-21 ; Times: 10
+	Date: 2020-01-15 ; Times: 6
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-22 ; Times: 11
+	Date: 2020-01-25 ; Times: 37
+	Date: 2020-01-11 ; Times: 11
+	Date: 2020-01-12 ; Times: 15
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-16 ; Times: 31
+	Date: 2020-01-29 ; Times: 11
+	Date: 2020-01-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Electrona risso" ; Times: 1
+	Query: "Nealotus tripes mappable:1" ; Times: 4
+	Query: "Benthodesmus tenuis mappable:1" ; Times: 2
+	Query: "Electrona antarctica" ; Times: 1
+	Query: "Decapterus macarellus mappable:1" ; Times: 2
+	Query: "specificepithet:coatesi genus:Carcharhinus" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 6
+	Query: "Hoplostethus mediterraneus mappable:1" ; Times: 5
+	Query: "Eurypharynx pelecanoides mappable:1" ; Times: 4
+	Query: "Rhynchobatus australiae mappable:1" ; Times: 8
+	Query: "specificepithet:fowlerae genus:Glyphis" ; Times: 1
+	Query: "scientificname:Acanthurus mata mappable:1" ; Times: 1
+	Query: "genus:Loxodon" ; Times: 1
+	Query: "specificepithet:squamulosus genus:Zameus" ; Times: 3
+	Query: "Diodon holocanthus mappable:1" ; Times: 6
+	Query: "Pterois volitans mappable:1" ; Times: 4
+	Query: "Nomeus gronovii mappable:1" ; Times: 2
+	Query: "Scopelopsis multipunctatus" ; Times: 1
+	Query: "Cheilopogon cyanopterus mappable:1" ; Times: 2
+	Query: "Lampris guttatus mappable:1" ; Times: 4
+	Query: "Prionace glauca mappable:1" ; Times: 3
+	Query: "Ablennes hians mappable:1" ; Times: 2
+	Query: "Howella brodiei  mappable:1" ; Times: 3
+	Query: "Malacocephalus laevis mappable:1" ; Times: 5
+	Query: "Rachycentron canadum mappable:1" ; Times: 2
+	Query: "Rhincodon typus mappable:1" ; Times: 3
+	Query: "Carcharhinus longimanus mappable:1" ; Times: 3
+	Query: "Seriola rivoliana mappable:1" ; Times: 2
+	Query: "Aldrovandia affinis mappable:1" ; Times: 5
+	Query: "vntype:specimen specificepithet:Zygaena genus:Sphyrna" ; Times: 1
+	Query: "Sigmops elongatus mappable:1" ; Times: 5
+	Query: "Lampanyctus achirus" ; Times: 2
+	Query: "Elagatis bipinnulata mappable:1" ; Times: 2
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "Trichiurus lepturus mappable:1" ; Times: 4
+	Query: "Echeneis naucrates mappable:1" ; Times: 2
+	Query: "Electrona carlsbergi" ; Times: 1
+	Query: "specificepithet:leiodon genus:Carcharhinus" ; Times: 3
+	Query: "Thunnus obesus" ; Times: 1
+	Query: "Anoplogaster cornuta mappable:1" ; Times: 4
+	Query: "Trachinocephalus myops mappable:1" ; Times: 4
+	Query: "specificepithet:fitzroyensis genus:Carcharhinus" ; Times: 3
+	Query: "Nannobrachium achirus" ; Times: 2
+	Query: "specificepithet:borneensis genus:Carcharhinus" ; Times: 5
+	Query: "nealotus tripes" ; Times: 2
+	Query: "mykiss Oncorhynchus" ; Times: 1
+	Query: "scientificname:Acanthurus grammoptilus mappable:1" ; Times: 1
+	Query: "Diaphus meadi" ; Times: 1
+	Query: "Owstonia" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "Antennarius striatus mappable:1" ; Times: 2
+	Query: "scientificname:Acanthurus dussumieri mappable:1" ; Times: 2
+	Query: "genus:Glyphis" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 3
+	Query: "specificepithet:taylori genus:Rhizoprionodon" ; Times: 2
+	Query: "Thunnus alalunga mappable:1" ; Times: 3
+	Query: "specificepithet:garricki genus:Glyphis" ; Times: 2
+	Query: "Diaphus hudsoni" ; Times: 1
+	Query: "Diaphus danae" ; Times: 2
+	Query: "Psenes cyanophrys mappable:1" ; Times: 2
+	Query: "Lepidocybium flavobrunneum mappable:1" ; Times: 2
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 3
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 6
+	Query: "Microphis brachyurus brachyurus mappable:1" ; Times: 1
+	Query: "aetomylaeus nichofii" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 4
+	Query: "ambigua Macquaria" ; Times: 1
+	Query: "Cheilopogon furcatus mappable:1" ; Times: 2
+	Query: "Ventrifossa macropogon mappable:1" ; Times: 5
+	Query: "genus:cubiceps distance(location,geopoint(-17.387026307632393,104.00253329192083))&lt;2249844.827149386" ; Times: 1
+	Query: "australis Nannoperca" ; Times: 1
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 4
+	Query: "Halosaurus ovenii mappable:1" ; Times: 5
+	Query: "Sphyrna zygaena mappable:1" ; Times: 2
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 3
+	Query: "Hirundichthys speculiger mappable:1" ; Times: 2
+	Query: "scientificname:Naso annulatus mappable:1" ; Times: 1
+	Query: "Rhynchobatus australiae" ; Times: 1
+	Query: "Zu cristatus mappable:1" ; Times: 1
+	Query: "Cepola" ; Times: 1
+	Query: "scientificname:Naso mcdadei mappable:1" ; Times: 2
+	Query: "specificepithet:oligolinx genus:Rhizoprionodon" ; Times: 4
+	Query: "scientificname:Naso unicornis mappable:1" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 6
+	Query: "Electrona paucirastra" ; Times: 1
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 2
+	Query: "scientificname:Prionurus maculatus mappable:1" ; Times: 1
+	Query: "Myctophum nitidulum mappable:1" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 7
+	Query: "Electrona subaspera" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 6
+	Query: "Diaphus ostenfeldi" ; Times: 1
+	Query: "Coryphaenoides rudis mappable:1" ; Times: 5
+	Query: "Idiacanthus fasciola mappable:1" ; Times: 2
+	Query: "Thunnus obesus mappable:1" ; Times: 3
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 3
+	Query: "Coryphaena equiselis mappable:1" ; Times: 3
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "Ruvettus pretiosus mappable:1" ; Times: 4
+	Query: "rhinogobius" ; Times: 1
+	Query: "Cubiceps pauciradiatus mappable:1" ; Times: 1
+	Query: "Phtheirichthys lineatus mappable:1" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 2
+	Query: "Xiphias gladius mappable:1" ; Times: 3
+	Query: "Diplophos rebainsi" ; Times: 6
+	Query: "Alectis ciliaris mappable:1" ; Times: 2
+	Query: "Melanocetus murrayi  mappable:1" ; Times: 2
+	Query: "Nesiarchus nasutus mappable:1" ; Times: 4
+	Query: "Auxis thazard thazard mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1584 download events in this period)
+Total number of records downloaded: 234
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-22 ; Times: 5
+	Date: 2020-01-15 ; Times: 2
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-20 ; Times: 4
+	Date: 2020-01-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Scopelopsis multipunctatus" ; Times: 1
+	Query: "Electrona risso" ; Times: 1
+	Query: "Electrona subaspera" ; Times: 1
+	Query: "Electrona antarctica" ; Times: 1
+	Query: "Benthosema suborbitale" ; Times: 1
+	Query: "Lampanyctus achirus" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "Electrona paucirastra" ; Times: 1
+	Query: "Diaphus danae" ; Times: 2
+	Query: "Diaphus hudsoni" ; Times: 1
+	Query: "Diaphus ostenfeldi" ; Times: 1
+	Query: "Ceratoscopelus warmingii" ; Times: 1
+	Query: "Electrona carlsbergi" ; Times: 1
+	Query: "Nannobrachium achirus" ; Times: 1
+	Query: "Myctophum phengodes" ; Times: 2
+	Query: "Diaphus meadi" ; Times: 1
+	Query: "Diogenichthys atlanticus" ; Times: 1
+
+
+End of report.

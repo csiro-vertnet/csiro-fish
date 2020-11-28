@@ -1,0 +1,197 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 154
+Number of records retrieved in searches: 2059
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Australia ; Times: 1
+	Country: France ; Times: 146
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-15 ; Times: 9
+	Date: 2020-09-16 ; Times: 41
+	Date: 2020-09-17 ; Times: 46
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-18 ; Times: 37
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-21 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Electrona risso" ; Times: 1
+	Query: "Seriola rivoliana" ; Times: 1
+	Query: "Ophisurus serpens" ; Times: 1
+	Query: "Polyprion americanus" ; Times: 1
+	Query: "Apogon smithi" ; Times: 1
+	Query: "Psenes pellucidus" ; Times: 1
+	Query: "Sphyraena flavicauda" ; Times: 1
+	Query: "Cyclichthys spilostylus" ; Times: 1
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "Iniistius pavo" ; Times: 1
+	Query: "Evermannella balbo" ; Times: 1
+	Query: "Rhizoprionodon acutus" ; Times: 1
+	Query: "Abudefduf vaigiensis" ; Times: 2
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "Pampus argenteus" ; Times: 1
+	Query: "Alepes djedaba" ; Times: 1
+	Query: "Platax teira" ; Times: 1
+	Query: "Cheilopogon furcatus" ; Times: 1
+	Query: "hippocampus whitei" ; Times: 1
+	Query: "Argyropelecus hemigymnus" ; Times: 1
+	Query: "Halosaurus ovenii" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "Terapon theraps" ; Times: 1
+	Query: "Priacanthus hamrur" ; Times: 1
+	Query: "Tylerius spinosissimus" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Lepidion lepidion" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 1
+	Query: "Lagocephalus suezensis" ; Times: 1
+	Query: "Epinephelus malabaricus" ; Times: 1
+	Query: "Synagrops japonicus" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Parexocoetus mento" ; Times: 1
+	Query: "Epigonus telescopus" ; Times: 1
+	Query: "Vinciguerria poweriae" ; Times: 1
+	Query: "Nemipterus japonicus" ; Times: 1
+	Query: "Dussumieria elopsoides" ; Times: 1
+	Query: "Naucrates ductor" ; Times: 1
+	Query: "Pseudocaranx dentex" ; Times: 1
+	Query: "Epigonus denticulatus" ; Times: 1
+	Query: "Nemichthys scolopaceus" ; Times: 1
+	Query: "Centrolophus niger" ; Times: 4
+	Query: "Callionymus filamentosus" ; Times: 1
+	Query: "Chlamydogobius eremius" ; Times: 1
+	Query: "Trachipterus trachypterus" ; Times: 1
+	Query: "Saurida undosquamis" ; Times: 1
+	Query: "Lampanyctus pusillus" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "Pelates quadrilineatus" ; Times: 1
+	Query: "Regalecus glesne" ; Times: 1
+	Query: "Sargocentron rubrum" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "Rastrelliger kanagurta" ; Times: 1
+	Query: "Hemiramphus far" ; Times: 1
+	Query: "Solea solea" ; Times: 3
+	Query: "Coryphaena equiselis" ; Times: 1
+	Query: "Remora remora" ; Times: 1
+	Query: "Mustelus mustelus" ; Times: 1
+	Query: "Bathypterois grallator" ; Times: 1
+	Query: "Sphoeroides pachygaster" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Carcharhinus altimus" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 1
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "Spratelloides delicatulus" ; Times: 1
+	Query: "Lobotes surinamensis" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Diogenichthys atlanticus" ; Times: 1
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "Coryphaena hippurus" ; Times: 1
+	Query: "Chelidonichthys cuculus" ; Times: 1
+	Query: "Ichthyococcus ovatus" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Beryx splendens" ; Times: 2
+	Query: "Hyporhamphus affinis" ; Times: 1
+	Query: "Dalatias licha" ; Times: 1
+	Query: "Lagocephalus lagocephalus" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Atherinomorus lacunosus" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "Tetragonurus cuvieri" ; Times: 1
+	Query: "Mora moro" ; Times: 1
+	Query: "Hippocampus hippocampus" ; Times: 1
+	Query: "Pteroplatytrygon violacea" ; Times: 1
+	Query: "Sillago sihama" ; Times: 1
+	Query: "Platycephalus indicus" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Tetrosomus gibbosus" ; Times: 1
+	Query: "Lutjanus argentimaculatus" ; Times: 1
+	Query: "Lestidiops jayakari" ; Times: 1
+	Query: "Luvarus imperialis" ; Times: 1
+	Query: "Lophotus lacepede" ; Times: 1
+	Query: "Remora brachyptera" ; Times: 1
+	Query: "Decapterus russelli" ; Times: 1
+	Query: "Nettastoma melanurum" ; Times: 1
+	Query: "Hoplostethus mediterraneus" ; Times: 1
+	Query: "Upeneus asymmetricus" ; Times: 1
+	Query: "Epinephelus fasciatus" ; Times: 1
+	Query: "Chauliodus sloani" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 1
+	Query: "Muraenesox cinereus" ; Times: 1
+	Query: "Anthias anthias" ; Times: 1
+	Query: "Helicolenus dactylopterus" ; Times: 1
+	Query: "Ruvettus pretiosus" ; Times: 1
+	Query: "Himantura uarnak" ; Times: 1
+	Query: "Dussumieria acuta" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Vinciguerria attenuata" ; Times: 1
+	Query: "Diaphus metopoclampus" ; Times: 1
+	Query: "colcloughi" ; Times: 1
+	Query: "Microstoma microstoma" ; Times: 1
+	Query: "Elagatis bipinnulata" ; Times: 1
+	Query: "Epinephelus coioides" ; Times: 1
+	Query: "mappable:1 scientificname:Carcharodon carcharias" ; Times: 1
+	Query: "Rachycentron canadum" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "Lagocephalus spadiceus" ; Times: 1
+	Query: "scientificname:Trachurus murphyi" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 1
+	Query: "Upeneus moluccensis" ; Times: 1
+	Query: "Lobianchia dofleini" ; Times: 1
+	Query: "Lampris guttatus" ; Times: 1
+	Query: "Omobranchus punctatus" ; Times: 1
+	Query: "Terapon puta" ; Times: 1
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Xiphias gladius" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 1
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "Centrophorus uyato" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "Zu cristatus" ; Times: 1
+	Query: "Trygonorrhina fasciata" ; Times: 4
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 1
+	Query: "Plotosus lineatus" ; Times: 1
+	Query: "Pempheris vanicolensis" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 976 download events in this period)
+Total number of records downloaded: 15
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 1
+	Country: Panama ; Times: 2
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-18 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "hippocampus whitei" ; Times: 1
+	Query: "APUS apus" ; Times: 1
+	Query: "curacao" ; Times: 2
+	Query: "Gambusia" ; Times: 1
+
+
+End of report.

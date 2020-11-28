@@ -1,0 +1,110 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 824
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Australia ; Times: 10
+	Country: Honduras ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 22
+	Country: United Kingdom ; Times: 12
+	Country: Ireland ; Times: 2
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-06 ; Times: 5
+	Date: 2020-08-19 ; Times: 7
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-05 ; Times: 3
+	Date: 2020-08-11 ; Times: 3
+	Date: 2020-08-07 ; Times: 10
+	Date: 2020-08-26 ; Times: 6
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-18 ; Times: 6
+	Date: 2020-08-29 ; Times: 44
+	Date: 2020-08-21 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Leuciscus leuciscus" ; Times: 1
+	Query: "Thunnus maccoyii" ; Times: 1
+	Query: "Caristius" ; Times: 2
+	Query: "pristis pristis" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Brama dussumieri" ; Times: 1
+	Query: "Melanogrammus aeglefinus" ; Times: 2
+	Query: "specificepithet:crassiceps genus:Cetonurus" ; Times: 1
+	Query: "Merlangius merlangus" ; Times: 3
+	Query: "specificepithet:niki genus:Cataetyx" ; Times: 2
+	Query: "hippocampus whitei" ; Times: 3
+	Query: "specificepithet:insolitus genus:Centrodraco" ; Times: 1
+	Query: "Pomatomus saltator" ; Times: 1
+	Query: "Pleuronectes platessa" ; Times: 2
+	Query: "Thunnus obesus" ; Times: 1
+	Query: "B4027" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 1
+	Query: "A2672" ; Times: 1
+	Query: "Alopias pelagicus" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "genus:Cataetyx" ; Times: 18
+	Query: "narke" ; Times: 1
+	Query: "Argyropelecus aculeatus" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Solea solea" ; Times: 2
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "hippocampus planifrons" ; Times: 7
+	Query: "specificepithet:atrifilum genus:Centrodraco" ; Times: 1
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "specificepithet:lugubris genus:Chascanopsetta" ; Times: 1
+	Query: "genus:Cetonurus" ; Times: 5
+	Query: "Alepocephalus australis" ; Times: 1
+	Query: "Platybelone argalus argalus" ; Times: 2
+	Query: "specificepithet:chthamalorhynchus genus:Cataetyx" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "equinus" ; Times: 1
+	Query: "Pangasius bocourti" ; Times: 1
+	Query: "genus:Centrodraco" ; Times: 3
+	Query: "Scomber scombrus" ; Times: 3
+	Query: "Thunnus tonggol" ; Times: 1
+	Query: "Acanthochromis polyacanthus" ; Times: 1
+	Query: "specificepithet:granulosus genus:Centrophorus" ; Times: 1
+	Query: "specificepithet:globiceps genus:Cetonurus" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 2
+	Query: "specificepithet:nielseni genus:Cataetyx" ; Times: 1
+	Query: "genus:Chascanopsetta" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 756 download events in this period)
+Total number of records downloaded: 10284
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "equinus" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "actinopterygii" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.

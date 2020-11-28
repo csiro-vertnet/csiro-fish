@@ -1,0 +1,145 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 793
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Philippines ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 79
+	Country: United States ; Times: 2
+	Country: Japan ; Times: 3
+	Country: Russia ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 5
+	Date: 2020-07-08 ; Times: 3
+	Date: 2020-07-21 ; Times: 7
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-01 ; Times: 4
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-11 ; Times: 3
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 81
+	Date: 2020-07-06 ; Times: 8
+	Date: 2020-07-23 ; Times: 6
+	Date: 2020-07-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Nealotus tripes mappable:1" ; Times: 1
+	Query: "cheilinus undulatus" ; Times: 2
+	Query: "histiopterus typus" ; Times: 1
+	Query: "Benthodesmus tenuis mappable:1" ; Times: 1
+	Query: "Anoplogaster cornuta mappable:1" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 2
+	Query: "Hoplostethus mediterraneus mappable:1" ; Times: 1
+	Query: "Eurypharynx pelecanoides mappable:1" ; Times: 1
+	Query: "Decapterus macarellus mappable:1" ; Times: 1
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 1
+	Query: "epinephelus rivulatus" ; Times: 2
+	Query: "Ruvettus pretiosus mappable:1" ; Times: 1
+	Query: "Alopias superciliosus mappable:1" ; Times: 1
+	Query: "Pterois volitans mappable:1" ; Times: 2
+	Query: "Nomeus gronovii mappable:1" ; Times: 1
+	Query: "Cheilopogon cyanopterus mappable:1" ; Times: 1
+	Query: "Hypophthalmus" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 1
+	Query: "sphoeroides pachygaster" ; Times: 1
+	Query: "Rachycentron canadum mappable:1" ; Times: 1
+	Query: "Rhincodon typus mappable:1" ; Times: 1
+	Query: "Carcharhinus longimanus mappable:1" ; Times: 1
+	Query: "Seriola rivoliana mappable:1" ; Times: 1
+	Query: "Melanocetus murrayi mappable:1" ; Times: 1
+	Query: "Lampris guttatus mappable:1" ; Times: 1
+	Query: "Sigmops elongatus mappable:1" ; Times: 1
+	Query: "Elagatis bipinnulata mappable:1" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "diaphus coeruleus" ; Times: 3
+	Query: "Echeneis naucrates mappable:1" ; Times: 1
+	Query: "Howella brodiei mappable:1" ; Times: 1
+	Query: "epinephelus morrhua" ; Times: 2
+	Query: "Trachinocephalus myops mappable:1" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "epinephelus malabaricus" ; Times: 2
+	Query: "Remora brachyptera mappable:1" ; Times: 1
+	Query: "Capricornis" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 1
+	Query: "Epigonus" ; Times: 1
+	Query: "Cephalopholis argus mappable:1" ; Times: 2
+	Query: "Antennarius striatus mappable:1" ; Times: 1
+	Query: "Carcharhinus brevipinna mappable:1" ; Times: 1
+	Query: "norfolkia" ; Times: 4
+	Query: "Diodon holocanthus mappable:1" ; Times: 2
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "Alopias" ; Times: 3
+	Query: "lethrinus crocineus" ; Times: 4
+	Query: "Psenes cyanophrys mappable:1" ; Times: 1
+	Query: "Lepidocybium flavobrunneum mappable:1" ; Times: 1
+	Query: "Aldrovandia affinis mappable:1" ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 2
+	Query: "Microphis brachyurus brachyurus mappable:1" ; Times: 2
+	Query: "Neoscopelus microchir mappable:1" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 1
+	Query: "Cheilopogon furcatus mappable:1" ; Times: 1
+	Query: "Ventrifossa macropogon mappable:1" ; Times: 1
+	Query: "Clupea harengus" ; Times: 3
+	Query: "Alopias superciliosus" ; Times: 3
+	Query: "Halosaurus ovenii mappable:1" ; Times: 1
+	Query: "Sphyrna zygaena mappable:1" ; Times: 1
+	Query: "polydactylus plebeius" ; Times: 2
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 1
+	Query: "Hirundichthys speculiger mappable:1" ; Times: 1
+	Query: "Hippocampus angustus" ; Times: 3
+	Query: "gerres oblongus" ; Times: 1
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 2
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 1
+	Query: "Myctophum nitidulum mappable:1" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 2
+	Query: "Caranx sexfasciatus mappable:1" ; Times: 1
+	Query: "Coryphaenoides rudis mappable:1" ; Times: 1
+	Query: "Idiacanthus fasciola mappable:1" ; Times: 1
+	Query: "Thunnus obesus mappable:1" ; Times: 1
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 1
+	Query: "Coryphaena equiselis mappable:1" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "Acropoma" ; Times: 2
+	Query: "etelis coruscans" ; Times: 1
+	Query: "Phtheirichthys lineatus mappable:1" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "gymnocranius elongatus" ; Times: 5
+	Query: "Alectis ciliaris mappable:1" ; Times: 1
+	Query: "Nesiarchus nasutus mappable:1" ; Times: 1
+	Query: "Liza vaigiensis" ; Times: 1
+	Query: "pristipomoides filamentosus" ; Times: 2
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 940 download events in this period)
+Total number of records downloaded: 77
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Epigonus" ; Times: 1
+
+
+End of report.

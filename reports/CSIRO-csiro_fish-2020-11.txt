@@ -1,0 +1,305 @@
+Report for Institution Code CSIRO, Resource csiro_fish
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 459
+Number of records retrieved in searches: 5646
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 388
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 38
+	Country: United States ; Times: 9
+	Country: Jordan ; Times: 17
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-23 ; Times: 20
+	Date: 2020-11-24 ; Times: 6
+	Date: 2020-11-25 ; Times: 6
+	Date: 2020-11-26 ; Times: 14
+	Date: 2020-11-27 ; Times: 13
+	Date: 2020-11-15 ; Times: 11
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-30 ; Times: 6
+	Date: 2020-11-02 ; Times: 370
+	Date: 2020-11-10 ; Times: 3
+	Date: 2020-11-28 ; Times: 1
+	Date: 2020-11-29 ; Times: 6
+	Date: 2020-11-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Scomberoides commersonnianus" ; Times: 1
+	Query: "Hirundichthys speculiger" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 2
+	Query: "Sphyraena jello" ; Times: 1
+	Query: "Salmo salar" ; Times: 5
+	Query: "Rachycentron canadum" ; Times: 2
+	Query: "Cheilopogon spilonotopterus" ; Times: 1
+	Query: "Scomberoides tol" ; Times: 1
+	Query: "Apogon smithi" ; Times: 1
+	Query: "Muraenesox bagio" ; Times: 3
+	Query: "Gonorynchus greyi" ; Times: 2
+	Query: "Cypselurus poecilopterus" ; Times: 1
+	Query: "Lutjanus vitta" ; Times: 1
+	Query: "Cephalopholis sexmaculata" ; Times: 2
+	Query: "Oxycheilinus bimaculatus" ; Times: 1
+	Query: "Cyclichthys spilostylus" ; Times: 1
+	Query: "Dipterygonotus balteatus" ; Times: 1
+	Query: "Arenigobius frenatus" ; Times: 2
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Kyphosus cinerascens" ; Times: 2
+	Query: "Hyporhamphus regularis" ; Times: 2
+	Query: "Scatophagus argus" ; Times: 2
+	Query: "Megalops cyprinoides" ; Times: 2
+	Query: "Decapterus macarellus" ; Times: 2
+	Query: "Cheilio inermis" ; Times: 2
+	Query: "Abudefduf vaigiensis" ; Times: 1
+	Query: "Bothus pantherinus" ; Times: 3
+	Query: "Pomatomus saltatrix" ; Times: 3
+	Query: "Lutjanus quinquelineatus" ; Times: 2
+	Query: "Triphoturus nigrescens" ; Times: 1
+	Query: "Alectis ciliaris" ; Times: 1
+	Query: "Platax teira" ; Times: 2
+	Query: "Platax orbicularis" ; Times: 2
+	Query: "Sillago lutea" ; Times: 1
+	Query: "Elops hawaiensis" ; Times: 1
+	Query: "Cheilopogon suttoni" ; Times: 1
+	Query: "Hypoatherina valenciennei" ; Times: 1
+	Query: "Gazza minuta" ; Times: 5
+	Query: "Hirundichthys oxycephalus" ; Times: 1
+	Query: "scientificname:Alosa alosa" ; Times: 10
+	Query: "Decapterus macrosoma" ; Times: 2
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "Scomberoides tala" ; Times: 1
+	Query: "Rhabdamia gracilis" ; Times: 1
+	Query: "Lutjanus lemniscatus" ; Times: 1
+	Query: "Trachinotus blochii" ; Times: 1
+	Query: "Cheilopogon arcticeps" ; Times: 1
+	Query: "genus:Euprotomicrus" ; Times: 1
+	Query: "Paracaesio sordida" ; Times: 1
+	Query: "Tylosurus crocodilus" ; Times: 3
+	Query: "scientificname:Gymnura altavela" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "Sphyraena obtusata" ; Times: 1
+	Query: "Atule mate" ; Times: 2
+	Query: "Scarus ghobban" ; Times: 2
+	Query: "Lutjanus rufolineatus" ; Times: 1
+	Query: "Kyphosus pacificus" ; Times: 2
+	Query: "Pisodonophis boro" ; Times: 2
+	Query: "Beryx splendens" ; Times: 1
+	Query: "Crossorhombus azureus" ; Times: 1
+	Query: "Leuciscus leuciscus" ; Times: 3
+	Query: "Stethojulis interrupta" ; Times: 3
+	Query: "Gnathanodon speciosus" ; Times: 2
+	Query: "Epigonus telescopus" ; Times: 1
+	Query: "Trachyrhamphus serratus" ; Times: 2
+	Query: "Parapriacanthus ransonneti" ; Times: 1
+	Query: "Lutjanus kasmira" ; Times: 2
+	Query: "Dussumieria elopsoides" ; Times: 3
+	Query: "Epinephelus fuscoguttatus" ; Times: 2
+	Query: "Parupeneus heptacanthus" ; Times: 1
+	Query: "Upeneus itoui" ; Times: 2
+	Query: "genus:Euleptorhamphus" ; Times: 4
+	Query: "Naso lituratus" ; Times: 2
+	Query: "Lactoria cornuta" ; Times: 1
+	Query: "Callionymus filamentosus" ; Times: 1
+	Query: "Polydactylus sextarius" ; Times: 2
+	Query: "Monodactylus argenteus" ; Times: 5
+	Query: "Upeneus guttatus" ; Times: 1
+	Query: "Selaroides leptolepis" ; Times: 1
+	Query: "Decapterus tabl" ; Times: 1
+	Query: "Caranx ignobilis" ; Times: 2
+	Query: "Caranx sexfasciatus" ; Times: 2
+	Query: "Carangoides malabaricus" ; Times: 1
+	Query: "Pelates quadrilineatus" ; Times: 6
+	Query: "xiphasia setifer" ; Times: 3
+	Query: "Thryssa setirostris" ; Times: 3
+	Query: "Cephalopholis miniatus" ; Times: 2
+	Query: "mappable:1 scientificname:Chaetodon rainfordi" ; Times: 2
+	Query: "Petroscirtes breviceps" ; Times: 3
+	Query: "Uraspis secunda" ; Times: 1
+	Query: "Cypselurus oligolepis" ; Times: 1
+	Query: "Cephalopholis leopardus" ; Times: 2
+	Query: "Rastrelliger kanagurta" ; Times: 3
+	Query: "Upeneus sundaicus" ; Times: 1
+	Query: "Ostorhinchus aureus" ; Times: 4
+	Query: "Remora remora" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Phtheirichthys lineatus" ; Times: 2
+	Query: "Sardinella gibbosa" ; Times: 1
+	Query: "Kyphosus vaigiensis" ; Times: 1
+	Query: "Alepes djedaba" ; Times: 2
+	Query: "Apistus carinatus" ; Times: 1
+	Query: "Scorpaenopsis ramaraoi" ; Times: 2
+	Query: "Cypselurus naresii" ; Times: 1
+	Query: "Arothron manilensis" ; Times: 4
+	Query: "Lutjanus argentimaculatus" ; Times: 4
+	Query: "Caranx tille" ; Times: 2
+	Query: "Cypselurus opisthopus" ; Times: 1
+	Query: "Trachurus japonicus" ; Times: 1
+	Query: "Alepes vari" ; Times: 1
+	Query: "Lethrinus microdon" ; Times: 1
+	Query: "Benthosema fibulatum" ; Times: 2
+	Query: "Johnius amblycephalus" ; Times: 1
+	Query: "Johnius borneensis" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Xyrias revulsus" ; Times: 1
+	Query: "Parexocoetus brachypterus" ; Times: 2
+	Query: "Lutjanus bengalensis" ; Times: 2
+	Query: "Acanthopagrus latus" ; Times: 2
+	Query: "Leptoscarus vaigiensis" ; Times: 3
+	Query: "Siganus spinus" ; Times: 1
+	Query: "Alepes kleinii" ; Times: 2
+	Query: "Salmo trutta" ; Times: 2
+	Query: "Cephalopholis cyanostigma" ; Times: 2
+	Query: "Samaris cristatus" ; Times: 1
+	Query: "Carcharhinus leiodon" ; Times: 1
+	Query: "Labroides dimidiatus" ; Times: 2
+	Query: "Kuwait" ; Times: 17
+	Query: "Chirocentrus nudus" ; Times: 2
+	Query: "Paraplagusia bilineata" ; Times: 2
+	Query: "Arothron hispidus" ; Times: 6
+	Query: "Hilsa kelee" ; Times: 3
+	Query: "Epinephelus malabaricus" ; Times: 1
+	Query: "Carcharhinus amblyrhynchoides" ; Times: 1
+	Query: "Ambassis gymnocephalus" ; Times: 2
+	Query: "Elagatis bipinnulatus" ; Times: 1
+	Query: "Amblygobius phalaena" ; Times: 2
+	Query: "Megalaspis cordyla" ; Times: 5
+	Query: "Hirundichthys rondeletii" ; Times: 1
+	Query: "Dalatias licha" ; Times: 1
+	Query: "Terapon jarbua" ; Times: 4
+	Query: "Scarus rubroviolaceus" ; Times: 1
+	Query: "scientificname:Halosaurus ovenii" ; Times: 1
+	Query: "Siganus canaliculatus" ; Times: 1
+	Query: "Dactyloptena orientalis" ; Times: 2
+	Query: "Parastromateus niger" ; Times: 1
+	Query: "Lethrinus mahsena" ; Times: 1
+	Query: "Lutjanus decussatus" ; Times: 1
+	Query: "Cheilopogon cyanopterus" ; Times: 1
+	Query: "Pterois volitans" ; Times: 3
+	Query: "Anabas testudineus" ; Times: 2
+	Query: "Atherinomorus lacunosus" ; Times: 1
+	Query: "Rhinoptera javanica" ; Times: 3
+	Query: "Syngnathoides biaculeatus" ; Times: 3
+	Query: "Spratelloides robustus" ; Times: 2
+	Query: "Sardina pilchardus" ; Times: 2
+	Query: "Carassius auratus" ; Times: 1
+	Query: "Acanthurus olivaceus" ; Times: 1
+	Query: "Stomias boa" ; Times: 2
+	Query: "Siganus fuscescens" ; Times: 1
+	Query: "Lethrinus nebulosus" ; Times: 2
+	Query: "Alopias superciliosus" ; Times: 1
+	Query: "Chirocentrus dorab" ; Times: 1
+	Query: "Gerres oyena" ; Times: 1
+	Query: "Sillago sihama" ; Times: 5
+	Query: "Platycephalus indicus" ; Times: 3
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Upeneus tragula" ; Times: 3
+	Query: "Elagatis bipinnulata" ; Times: 1
+	Query: "Psettodes erumei" ; Times: 1
+	Query: "Decapterus russelli" ; Times: 2
+	Query: "Rhina ancylostoma" ; Times: 2
+	Query: "Lutjanus fulviflamma" ; Times: 5
+	Query: "Mulloidichthys vanicolensis" ; Times: 2
+	Query: "Echeneis naucrates" ; Times: 2
+	Query: "Gerres filamentosus" ; Times: 2
+	Query: "Manta birostris" ; Times: 2
+	Query: "Rhynchobatus australiae" ; Times: 2
+	Query: "Chitala ornata" ; Times: 1
+	Query: "Chelidonichthys kumu" ; Times: 1
+	Query: "Lethrinus harak" ; Times: 3
+	Query: "Epinephelus fasciatus" ; Times: 1
+	Query: "A2458" ; Times: 1
+	Query: "specificepithet:natalensis genus:Rhynchohyalus" ; Times: 2
+	Query: "Plectorhinchus flavomaculatus" ; Times: 2
+	Query: "Hemiramphus far" ; Times: 2
+	Query: "Oncorhynchus tshawytscha" ; Times: 1
+	Query: "Scomberoides lysan" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Anthias anthias" ; Times: 1
+	Query: "Sphyraena pinguis" ; Times: 3
+	Query: "Arothron immaculatus" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "Pegasus volitans" ; Times: 1
+	Query: "Atherinomorus pinguis" ; Times: 1
+	Query: "Bathypterois grallator" ; Times: 2
+	Query: "Acanthurus dussumieri" ; Times: 1
+	Query: "Caesio cuning" ; Times: 2
+	Query: "Naso brevirostris" ; Times: 2
+	Query: "Priacanthus tayenus" ; Times: 2
+	Query: "enchelyurus" ; Times: 1
+	Query: "Lutjanus rivulatus" ; Times: 1
+	Query: "Lutjanus carponotatus" ; Times: 1
+	Query: "Epinephelus coioides" ; Times: 1
+	Query: "Arothron stellatus" ; Times: 2
+	Query: "Acanthurus pyroferus" ; Times: 1
+	Query: "Pomadasys kaakan" ; Times: 3
+	Query: "Thysanophrys chiltonae" ; Times: 2
+	Query: "Kyphosus sydneyanus" ; Times: 1
+	Query: "Caesio caerulaurea" ; Times: 2
+	Query: "sphaeramia orbicularis" ; Times: 1
+	Query: "Lagocephalus spadiceus" ; Times: 4
+	Query: "Cephalopholis sonnerati" ; Times: 2
+	Query: "Epigonus denticulatus" ; Times: 1
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Petroscirtes mitratus" ; Times: 2
+	Query: "Perca fluviatilis" ; Times: 3
+	Query: "Caranx melampygus" ; Times: 2
+	Query: "Caranx heberi" ; Times: 1
+	Query: "Omobranchus punctatus" ; Times: 2
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Mulloidichthys flavolineatus" ; Times: 1
+	Query: "Lethrinus lentjan" ; Times: 1
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Aphareus furca" ; Times: 2
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "Strophidon sathete" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 1
+	Query: "Acanthurus mata" ; Times: 1
+	Query: "Carangoides ferdau" ; Times: 1
+	Query: "Aldrichetta forsteri" ; Times: 1
+	Query: "Anguilla reinhardti" ; Times: 2
+	Query: "Carassius carassius" ; Times: 1
+	Query: "Amblygaster sirm" ; Times: 3
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Plectorhinchus schotaf" ; Times: 1
+	Query: "Lamna nasus" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 3
+	Query: "Uraspis uraspis" ; Times: 1
+	Query: "Carangoides fulvoguttatus" ; Times: 1
+	Query: "Himantura uarnak" ; Times: 3
+	Query: "Chelidonichthys cuculus" ; Times: 1
+	Query: "Crossorhombus valderostratus" ; Times: 1
+	Query: "60-312" ; Times: 1
+	Query: "Atherinomorus endrachtensis" ; Times: 1
+	Query: "Pomadasys argenteus" ; Times: 1
+	Query: "Cheilopogon atrisignis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 842 download events in this period)
+Total number of records downloaded: 32
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Jordan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-17 ; Times: 1
+	Date: 2020-11-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "auratus genus:Carassius year &gt;= 1960" ; Times: 1
+	Query: "Kuwait" ; Times: 2
+
+
+End of report.
